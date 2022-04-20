@@ -1,3 +1,3 @@
-<h1 align="center">
+<p align="center">
 ![Theseus](static/img/theseus.png)
-</h1>
+</p>
