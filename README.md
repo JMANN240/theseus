@@ -1,3 +1,3 @@
 <p align="center">
-![Theseus](static/img/theseus.png)
+    <img src="static/img/theseus.png">
 </p>
