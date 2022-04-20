@@ -6344,5 +6344,1818 @@
                 "police force"
             ]
         }
+    },
+    "helpful": {
+        "adjective": {
+            "providing service or assistance ": [
+                "conducive",
+                "facilitative",
+                "useful"
+            ],
+            "promoting or contributing to personal or social well-being ": [
+                "advantageous",
+                "benefic",
+                "beneficent",
+                "beneficial",
+                "benignant",
+                "favorable",
+                "friendly",
+                "good",
+                "kindly",
+                "profitable",
+                "salutary"
+            ]
+        }
+    },
+    "tool": {
+        "noun": {
+            "an article intended for use in work ": [
+                "device",
+                "implement",
+                "instrument",
+                "utensil"
+            ],
+            "one that is or can be used to further the purposes of another ": [
+                "cat's-paw",
+                "instrument",
+                "lay figure",
+                "pawn",
+                "puppet"
+            ],
+            "one who is easily deceived or cheated ": [
+                "chump",
+                "dupe",
+                "gull",
+                "mug",
+                "patsy",
+                "pigeon",
+                "pushover",
+                "sap",
+                "soft touch",
+                "sucker"
+            ]
+        },
+        "verb": {
+            "to travel by a motorized vehicle ": [
+                "automobile",
+                "drive",
+                "motor"
+            ]
+        }
+    },
+    "awesome": {
+        "adjective": {
+            "causing wonder or astonishment ": [
+                "amazing",
+                "astonishing",
+                "astounding",
+                "awful",
+                "eye-opening",
+                "fabulous",
+                "marvelous",
+                "miraculous",
+                "portentous",
+                "prodigious",
+                "staggering",
+                "stunning",
+                "stupendous",
+                "sublime",
+                "surprising",
+                "wonderful",
+                "wondrous"
+            ],
+            "of the very best kind ": [
+                "A-OK",
+                "A1",
+                "bang-up",
+                "banner",
+                "beautiful",
+                "blue-chip",
+                "blue-ribbon",
+                "boffo",
+                "bonny",
+                "boss",
+                "brag",
+                "brave",
+                "bully",
+                "bumper",
+                "capital",
+                "choice",
+                "classic",
+                "cool",
+                "corking",
+                "crackerjack",
+                "cracking",
+                "dandy",
+                "divine",
+                "dope",
+                "down",
+                "dynamite",
+                "excellent",
+                "fab",
+                "fabulous",
+                "famous",
+                "fantabulous",
+                "fantastic",
+                "fine",
+                "first-class",
+                "first-rate",
+                "first-string",
+                "five-star",
+                "four-star",
+                "frontline",
+                "gangbusters",
+                "gilt-edged",
+                "gone",
+                "grand",
+                "great",
+                "groovy",
+                "heavenly",
+                "high-class",
+                "hot",
+                "hype",
+                "immense",
+                "jim-dandy",
+                "keen",
+                "lovely",
+                "marvelous",
+                "mean",
+                "neat",
+                "nifty",
+                "noble",
+                "number one",
+                "numero uno",
+                "out-of-sight",
+                "par excellence",
+                "peachy",
+                "peachy keen",
+                "phat",
+                "prime",
+                "primo",
+                "prize",
+                "prizewinning",
+                "quality",
+                "radical",
+                "righteous",
+                "sensational",
+                "slick",
+                "splendid",
+                "stellar",
+                "sterling",
+                "superb",
+                "superior",
+                "superlative",
+                "supernal",
+                "swell",
+                "terrific",
+                "tip-top",
+                "top",
+                "top-notch",
+                "top-of-the-line",
+                "top-shelf",
+                "topflight",
+                "topping",
+                "unsurpassed",
+                "wizard",
+                "wonderful"
+            ]
+        }
+    },
+    "cool": {
+        "adjective": {
+            "having or showing a lack of friendliness or interest in others ": [
+                "aloof",
+                "antisocial",
+                "asocial",
+                "buttoned-up",
+                "cold",
+                "cold-eyed",
+                "detached",
+                "distant",
+                "dry",
+                "frosty",
+                "offish",
+                "remote",
+                "standoff",
+                "standoffish",
+                "unbending",
+                "unclubbable",
+                "unsociable"
+            ],
+            "free from emotional or mental agitation ": [
+                "calm",
+                "collected",
+                "composed",
+                "coolheaded",
+                "equal",
+                "level",
+                "limpid",
+                "peaceful",
+                "placid",
+                "possessed",
+                "recollected",
+                "sedate",
+                "self-composed",
+                "self-possessed",
+                "serene",
+                "smooth",
+                "together",
+                "tranquil",
+                "undisturbed",
+                "unperturbed",
+                "unruffled",
+                "unshaken",
+                "untroubled",
+                "unworried"
+            ],
+            "having a low or subnormal temperature ": [
+                "algid",
+                "arctic",
+                "bitter",
+                "bone-chilling",
+                "chill",
+                "chilly",
+                "cold",
+                "coldish",
+                "coolish",
+                "freezing",
+                "frigid",
+                "frosty",
+                "gelid",
+                "glacial",
+                "ice-cold",
+                "icy",
+                "nipping",
+                "nippy",
+                "numbing",
+                "polar",
+                "shivery",
+                "snappy",
+                "wintry"
+            ],
+            "lacking in friendliness or warmth of feeling ": [
+                "antiseptic",
+                "arctic",
+                "brittle",
+                "chill",
+                "chilly",
+                "clammy",
+                "cold",
+                "cold-blooded",
+                "cold-eyed",
+                "coldish",
+                "frigid",
+                "frosty",
+                "frozen",
+                "gelid",
+                "glacial",
+                "hard-eyed",
+                "icy",
+                "uncordial",
+                "unfriendly",
+                "unsympathetic",
+                "wintry"
+            ],
+            "being in the latest or current fashion ": [
+                "\u00e0 la mode",
+                "au courant",
+                "chic",
+                "exclusive",
+                "fashionable",
+                "fresh",
+                "happening",
+                "hip",
+                "in",
+                "modish",
+                "sharp",
+                "smart",
+                "snappy",
+                "stylish",
+                "supercool",
+                "swell",
+                "swish",
+                "trendy",
+                "voguish"
+            ],
+            "keenly aware of and responsive to the latest developments especially in fashion and entertainment ": [
+                "au courant",
+                "def",
+                "downtown",
+                "groovy",
+                "hep",
+                "hip",
+                "in",
+                "mod",
+                "now",
+                "trendy",
+                "turned-on",
+                "with-it"
+            ],
+            "of the very best kind ": [
+                "A-OK",
+                "A1",
+                "awesome",
+                "bang-up",
+                "banner",
+                "beautiful",
+                "blue-chip",
+                "blue-ribbon",
+                "boffo",
+                "bonny",
+                "boss",
+                "brag",
+                "brave",
+                "bully",
+                "bumper",
+                "capital",
+                "choice",
+                "classic",
+                "corking",
+                "crackerjack",
+                "cracking",
+                "dandy",
+                "divine",
+                "dope",
+                "down",
+                "dynamite",
+                "excellent",
+                "fab",
+                "fabulous",
+                "famous",
+                "fantabulous",
+                "fantastic",
+                "fine",
+                "first-class",
+                "first-rate",
+                "first-string",
+                "five-star",
+                "four-star",
+                "frontline",
+                "gangbusters",
+                "gilt-edged",
+                "gone",
+                "grand",
+                "great",
+                "groovy",
+                "heavenly",
+                "high-class",
+                "hot",
+                "hype",
+                "immense",
+                "jim-dandy",
+                "keen",
+                "lovely",
+                "marvelous",
+                "mean",
+                "neat",
+                "nifty",
+                "noble",
+                "number one",
+                "numero uno",
+                "out-of-sight",
+                "par excellence",
+                "peachy",
+                "peachy keen",
+                "phat",
+                "prime",
+                "primo",
+                "prize",
+                "prizewinning",
+                "quality",
+                "radical",
+                "righteous",
+                "sensational",
+                "slick",
+                "splendid",
+                "stellar",
+                "sterling",
+                "superb",
+                "superior",
+                "superlative",
+                "supernal",
+                "swell",
+                "terrific",
+                "tip-top",
+                "top",
+                "top-notch",
+                "top-of-the-line",
+                "top-shelf",
+                "topflight",
+                "topping",
+                "unsurpassed",
+                "wizard",
+                "wonderful"
+            ]
+        },
+        "verb": {
+            "to cause to lose heat ": [
+                "chill",
+                "refrigerate"
+            ],
+            "to become still and orderly ": [
+                "calm (down)",
+                "chill out",
+                "hush",
+                "pipe down",
+                "quiet",
+                "settle (down)"
+            ]
+        },
+        "noun": {
+            "the absence of emotional involvement ": [
+                "coldness",
+                "detachment",
+                "dispassion",
+                "dispassionateness"
+            ],
+            "the quality or state of being fashionable ": [
+                "coolness",
+                "fashionableness",
+                "hip",
+                "hipness",
+                "hipsterism",
+                "modishness",
+                "stylishness",
+                "trendiness",
+                "voguishness"
+            ],
+            "evenness of emotions or temper ": [
+                "aplomb",
+                "calmness",
+                "collectedness",
+                "composedness",
+                "composure",
+                "coolness",
+                "countenance",
+                "equanimity",
+                "equilibrium",
+                "imperturbability",
+                "placidity",
+                "repose",
+                "sangfroid",
+                "self-composedness",
+                "self-possession",
+                "serenity",
+                "tranquillity",
+                "tranquilness"
+            ]
+        }
+    },
+    "usage": {
+        "noun": {
+            "the act or practice of employing something for a particular purpose ": [
+                "application",
+                "employment",
+                "exercise",
+                "operation",
+                "play",
+                "use"
+            ]
+        }
+    },
+    "installation": {
+        "noun": {
+            "the process or an instance of being formally placed in an office or organization ": [
+                "baptism",
+                "inaugural",
+                "inauguration",
+                "induction",
+                "initiation",
+                "installment",
+                "investiture",
+                "investment"
+            ],
+            "a structure that is designed and built for a particular purpose ": [
+                "complex",
+                "establishment",
+                "facility"
+            ]
+        }
+    },
+    "simple": {
+        "adjective": {
+            "free from all additions or embellishment ": [
+                "bald",
+                "bare",
+                "naked",
+                "plain",
+                "plain-vanilla",
+                "unadorned",
+                "undecorated",
+                "unembellished",
+                "unornamented",
+                "unvarnished"
+            ],
+            "free from any intent to deceive or impress others ": [
+                "artless",
+                "genuine",
+                "guileless",
+                "honest",
+                "ingenuous",
+                "innocent",
+                "naive",
+                "natural",
+                "real",
+                "sincere",
+                "true",
+                "unaffected",
+                "unpretending",
+                "unpretentious"
+            ],
+            "having no exceptions or restrictions ": [
+                "absolute",
+                "all-out",
+                "arrant",
+                "blank",
+                "blooming",
+                "bodacious",
+                "categorical",
+                "clean",
+                "complete",
+                "consummate",
+                "crashing",
+                "damn",
+                "damned",
+                "dead",
+                "deadly",
+                "definite",
+                "downright",
+                "dreadful",
+                "fair",
+                "flat",
+                "flat-out",
+                "out-and-out",
+                "outright",
+                "perfect",
+                "plumb",
+                "profound",
+                "pure",
+                "rank",
+                "regular",
+                "sheer",
+                "stark",
+                "stone",
+                "straight-out",
+                "thorough",
+                "thoroughgoing",
+                "total",
+                "unadulterated",
+                "unalloyed",
+                "unconditional",
+                "unmitigated",
+                "unqualified",
+                "utter",
+                "very"
+            ],
+            "involving minimal difficulty or effort ": [
+                "cheap",
+                "downhill",
+                "easy",
+                "effortless",
+                "facile",
+                "fluent",
+                "fluid",
+                "hands-down",
+                "light",
+                "painless",
+                "ready",
+                "royal",
+                "smooth",
+                "snap",
+                "soft"
+            ],
+            "lacking in worldly wisdom or informed judgment ": [
+                "aw-shucks",
+                "dewy",
+                "dewy-eyed",
+                "green",
+                "ingenuous",
+                "innocent",
+                "na\u00eff",
+                "naive",
+                "primitive",
+                "simpleminded",
+                "uncritical",
+                "unknowing",
+                "unsophisticated",
+                "unsuspecting",
+                "unsuspicious",
+                "unwary",
+                "unworldly",
+                "wide-eyed"
+            ],
+            "lacking in education or the knowledge gained from books ": [
+                "analphabetic",
+                "benighted",
+                "dark",
+                "ignorant",
+                "illiterate",
+                "nonliterate",
+                "rude",
+                "uneducated",
+                "uninstructed",
+                "unlearned",
+                "unlettered",
+                "unread",
+                "unschooled",
+                "untaught",
+                "untutored"
+            ],
+            "not having or showing an ability to absorb ideas readily ": [
+                "airheaded",
+                "birdbrained",
+                "bonehead",
+                "boneheaded",
+                "brain-dead",
+                "brainless",
+                "bubbleheaded",
+                "chuckleheaded",
+                "dense",
+                "dim",
+                "dim-witted",
+                "doltish",
+                "dopey",
+                "dorky",
+                "dull",
+                "dumb",
+                "dunderheaded",
+                "empty-headed",
+                "fatuous",
+                "gormless",
+                "half-witted",
+                "knuckleheaded",
+                "lamebrain",
+                "lunkheaded",
+                "mindless",
+                "oafish",
+                "obtuse",
+                "opaque",
+                "pinheaded",
+                "senseless",
+                "slow",
+                "slow-witted",
+                "soft",
+                "softheaded",
+                "stupid",
+                "thick",
+                "thick-witted",
+                "thickheaded",
+                "unintelligent",
+                "unsmart",
+                "vacuous",
+                "weak-minded",
+                "witless"
+            ]
+        }
+    },
+    "web": {
+        "noun": {
+            "something that catches and holds ": [
+                "entanglement",
+                "mesh(es)",
+                "morass",
+                "net",
+                "noose",
+                "quagmire",
+                "quicksand",
+                "snare",
+                "tanglement",
+                "toil(s)",
+                "trap"
+            ],
+            "a device or scheme for capturing another by surprise ": [
+                "ambush",
+                "net",
+                "snare",
+                "trap"
+            ]
+        }
+    },
+    "application": {
+        "noun": {
+            "the act or practice of employing something for a particular purpose ": [
+                "employment",
+                "exercise",
+                "operation",
+                "play",
+                "usage",
+                "use"
+            ]
+        }
+    },
+    "using": {
+        "verb": {
+            "to put into action or service ": [
+                "applying",
+                "employing",
+                "exercising",
+                "exploiting",
+                "harnessing",
+                "operating",
+                "utilizing"
+            ],
+            "to behave toward in a stated way ": [
+                "acting (toward)",
+                "being (to)",
+                "dealing (with)",
+                "handling",
+                "serving",
+                "treating"
+            ],
+            "to take unfair advantage of ": [
+                "abusing",
+                "capitalizing (on)",
+                "cashing in (on)",
+                "exploiting",
+                "imposing (on or upon)",
+                "leveraging",
+                "milking",
+                "pimping",
+                "playing (on or upon)",
+                "working"
+            ]
+        }
+    },
+    "fastapi": {},
+    "its": {},
+    "backend": {},
+    "python": {
+        "noun": {
+            "as in {it}anaconda{/it}, {it}boa{/it}": [
+                "adder",
+                "anaconda",
+                "asp",
+                "black racer",
+                "blacksnake",
+                "blue racer",
+                "boa",
+                "bull snake",
+                "bushmaster",
+                "chicken snake",
+                "cobra",
+                "constrictor",
+                "copperhead",
+                "coral snake",
+                "cottonmouth moccasin",
+                "diamondback rattlesnake",
+                "fer-de-lance",
+                "garter snake",
+                "gopher snake",
+                "green snake",
+                "hognose snake",
+                "horned viper",
+                "indigo snake",
+                "king cobra",
+                "king snake",
+                "krait",
+                "mamba",
+                "milk snake",
+                "moccasin",
+                "pine snake",
+                "pit viper",
+                "puff adder",
+                "racer",
+                "rat snake",
+                "rattlesnake",
+                "sea serpent",
+                "sea snake",
+                "sidewinder",
+                "taipan",
+                "water moccasin",
+                "water snake",
+                "worm snake",
+                "serpent",
+                "snake",
+                "viper"
+            ]
+        }
+    },
+    "3": {},
+    "10": {},
+    "virtual": {
+        "adjective": {
+            "very close to being something without actually being it ": [
+                "so-called",
+                "apparent",
+                "assumed",
+                "evident",
+                "ostensible",
+                "presumed",
+                "seeming",
+                "supposed",
+                "akin",
+                "analogous",
+                "cognate",
+                "comparable",
+                "connate",
+                "correspondent",
+                "corresponding",
+                "ditto",
+                "like",
+                "matching",
+                "parallel",
+                "resemblant",
+                "resembling",
+                "similar",
+                "such",
+                "suchlike",
+                "approaching",
+                "approximating",
+                "close",
+                "equal",
+                "equivalent",
+                "fungible",
+                "identical",
+                "indistinguishable",
+                "interchangeable",
+                "selfsame",
+                "substitutable",
+                "formal",
+                "nominal",
+                "paper",
+                "titular"
+            ]
+        }
+    },
+    "environment": {
+        "noun": {
+            "the circumstances, conditions, or objects by which one is surrounded ": [
+                "ambient",
+                "atmosphere",
+                "climate",
+                "clime",
+                "context",
+                "contexture",
+                "environs",
+                "medium",
+                "milieu",
+                "mise-en-sc\u00e8ne",
+                "setting",
+                "surround",
+                "surroundings",
+                "terrain"
+            ]
+        }
+    },
+    "recommended": {
+        "verb": {
+            "to put (something) into the possession or safekeeping of another ": [
+                "commended",
+                "committed",
+                "confided",
+                "consigned",
+                "delegated",
+                "delivered",
+                "entrusted",
+                "gave",
+                "gave over",
+                "handed",
+                "handed over",
+                "left",
+                "passed",
+                "reposed",
+                "transferred",
+                "transmitted",
+                "trusted",
+                "turned over",
+                "vested"
+            ],
+            "to put forward (something) as one's choice for a wise or proper course of action ": [
+                "advised",
+                "counseled",
+                "suggested"
+            ]
+        }
+    },
+    "install": {
+        "verb": {
+            "to put into an office or welcome into an organization with special ceremonies ": [
+                "baptize",
+                "inaugurate",
+                "induct",
+                "initiate",
+                "instate",
+                "invest",
+                "seat"
+            ],
+            "to establish or place comfortably or snugly ": [
+                "ensconce",
+                "lodge",
+                "nestle",
+                "perch",
+                "roost",
+                "settle"
+            ]
+        }
+    },
+    "all": {
+        "adverb": {
+            "to a full extent or degree ": [
+                "all of",
+                "all over",
+                "altogether",
+                "clean",
+                "completely",
+                "dead",
+                "enough",
+                "entire",
+                "entirely",
+                "even",
+                "exactly",
+                "fast",
+                "flat",
+                "full",
+                "fully",
+                "heartily",
+                "out",
+                "perfectly",
+                "plumb",
+                "quite",
+                "soundly",
+                "thoroughly",
+                "through and through",
+                "totally",
+                "utterly",
+                "well",
+                "wholly",
+                "wide"
+            ],
+            "for each one ": [
+                "apiece",
+                "each",
+                "per",
+                "per capita"
+            ]
+        },
+        "adjective": {
+            "not divided or scattered among several areas of interest or concern ": [
+                "concentrated",
+                "entire",
+                "exclusive",
+                "focused",
+                "undivided",
+                "whole"
+            ]
+        },
+        "pronoun": {
+            "every person ": [
+                "everybody",
+                "everyone"
+            ]
+        }
+    },
+    "necessary": {
+        "adjective": {
+            "forcing one's compliance or participation by or as if by law ": [
+                "compulsory",
+                "forced",
+                "imperative",
+                "incumbent",
+                "involuntary",
+                "mandatory",
+                "nonelective",
+                "obligatory",
+                "peremptory",
+                "required"
+            ],
+            "impossible to avoid or evade ": [
+                "certain",
+                "ineluctable",
+                "ineludible",
+                "inescapable",
+                "inevitable",
+                "sure",
+                "unavoidable",
+                "unescapable"
+            ],
+            "impossible to do without ": [
+                "all-important",
+                "critical",
+                "essential",
+                "imperative",
+                "indispensable",
+                "integral",
+                "must-have",
+                "necessitous",
+                "needed",
+                "needful",
+                "required",
+                "requisite",
+                "vital"
+            ]
+        },
+        "noun": {
+            "something necessary, indispensable, or unavoidable ": [
+                "condition",
+                "demand",
+                "essential",
+                "must",
+                "must-have",
+                "necessity",
+                "need",
+                "needful",
+                "requirement",
+                "requisite",
+                "sine qua non"
+            ]
+        }
+    },
+    "dependencies": {
+        "noun": {
+            "the quality or state of needing something or someone ": [
+                "dependences",
+                "reliances"
+            ]
+        }
+    },
+    "run": {
+        "verb": {
+            "to go at a pace faster than a walk ": [
+                "dash",
+                "gallop",
+                "jog",
+                "scamper",
+                "sprint",
+                "trip",
+                "trot"
+            ],
+            "to hasten away from something dangerous or frightening ": [
+                "bolt",
+                "break",
+                "bug out",
+                "flee",
+                "fly",
+                "hightail (it)",
+                "retreat",
+                "run away",
+                "run off",
+                "skedaddle"
+            ],
+            "to be positioned along a certain course or in a certain direction ": [
+                "bear",
+                "extend",
+                "go",
+                "head",
+                "lead",
+                "lie"
+            ],
+            "to occur within a continuous range of variation ": [
+                "go",
+                "range",
+                "vary"
+            ],
+            "to move in a stream ": [
+                "flow",
+                "pour",
+                "roll",
+                "stream"
+            ],
+            "to proceed or move quickly ": [
+                "barrel",
+                "belt",
+                "blast",
+                "blaze",
+                "blow",
+                "bolt",
+                "bomb",
+                "bowl",
+                "breeze",
+                "bundle",
+                "bustle",
+                "buzz",
+                "cannonball",
+                "careen",
+                "career",
+                "chase",
+                "course",
+                "crack (on)",
+                "dash",
+                "drive",
+                "fly",
+                "hare",
+                "hasten",
+                "hie",
+                "highball",
+                "hotfoot (it)",
+                "hump",
+                "hurl",
+                "hurry",
+                "hurtle",
+                "hustle",
+                "jet",
+                "jump",
+                "motor",
+                "nip",
+                "pelt",
+                "race",
+                "ram",
+                "rip",
+                "rocket",
+                "rush",
+                "rustle",
+                "scoot",
+                "scurry",
+                "scuttle",
+                "shoot",
+                "speed",
+                "step",
+                "tear",
+                "travel",
+                "trot",
+                "whirl",
+                "whisk",
+                "zip",
+                "zoom"
+            ],
+            "to show a liking or proneness (for something) ": [
+                "incline",
+                "lean",
+                "tend",
+                "trend"
+            ],
+            "to urge, push, or force onward ": [
+                "drive",
+                "herd",
+                "punch"
+            ],
+            "to control the mechanical operation of ": [
+                "handle",
+                "operate",
+                "work"
+            ],
+            "to eventually have as a state or quality ": [
+                "become",
+                "come",
+                "get",
+                "go",
+                "grow",
+                "turn",
+                "wax"
+            ],
+            "to go from a solid to a liquid state ": [
+                "deliquesce",
+                "flux",
+                "fuse",
+                "liquefy",
+                "melt",
+                "thaw"
+            ],
+            "to look after and make decisions about ": [
+                "administer",
+                "administrate",
+                "carry on",
+                "conduct",
+                "control",
+                "direct",
+                "govern",
+                "guide",
+                "handle",
+                "keep",
+                "manage",
+                "operate",
+                "overlook",
+                "oversee",
+                "preside (over)",
+                "regulate",
+                "steward",
+                "superintend",
+                "supervise",
+                "tend"
+            ],
+            "to cause to function ": [
+                "activate",
+                "actuate",
+                "crank (up)",
+                "drive",
+                "move",
+                "set off",
+                "spark",
+                "start",
+                "touch off",
+                "trigger",
+                "turn on"
+            ],
+            "to have a price of ": [
+                "bring",
+                "cost",
+                "fetch",
+                "go (for)",
+                "sell (for)"
+            ],
+            "to come or be together as friends ": [
+                "associate",
+                "chum",
+                "company",
+                "consociate",
+                "consort",
+                "fraternize",
+                "hang (around or out)",
+                "hobnob",
+                "hook up",
+                "mess around",
+                "pal (around)",
+                "sort",
+                "travel"
+            ],
+            "to go after or on the track of ": [
+                "bird-dog",
+                "chase",
+                "course",
+                "dog",
+                "follow",
+                "hound",
+                "pursue",
+                "shadow",
+                "tag",
+                "tail",
+                "trace",
+                "track",
+                "trail"
+            ]
+        },
+        "noun": {
+            "a prevailing or general movement or inclination ": [
+                "current",
+                "direction",
+                "drift",
+                "leaning",
+                "tendency",
+                "tide",
+                "trend",
+                "wind"
+            ],
+            "a natural body of running water smaller than a river ": [
+                "beck",
+                "bourn",
+                "brook",
+                "brooklet",
+                "burn",
+                "creek",
+                "gill",
+                "rill",
+                "rivulet",
+                "runlet",
+                "runnel",
+                "streamlet"
+            ],
+            "the period during which something exists, lasts, or is in progress ": [
+                "continuance",
+                "date",
+                "duration",
+                "life",
+                "life span",
+                "lifetime",
+                "standing",
+                "time"
+            ],
+            "the right to act or move freely ": [
+                "authorization",
+                "free hand",
+                "freedom",
+                "latitude",
+                "license"
+            ],
+            "abnormally frequent intestinal evacuations with more or less fluid stools ": [
+                "Delhi belly",
+                "diarrhea",
+                "flux",
+                "Montezuma's revenge",
+                "trots",
+                "turista"
+            ]
+        }
+    },
+    "pip": {
+        "verb": {
+            "to make a short sharp sound like a small bird ": [
+                "cheep",
+                "chirp",
+                "chirrup",
+                "chitter",
+                "jargon",
+                "peep",
+                "pipe",
+                "tweet",
+                "twitter"
+            ]
+        }
+    },
+    "r": {},
+    "requirements": {
+        "noun": {
+            "something necessary, indispensable, or unavoidable ": [
+                "conditions",
+                "demands",
+                "essentials",
+                "must-haves",
+                "musts",
+                "necessaries",
+                "necessities",
+                "needfuls",
+                "needs",
+                "requisites",
+                "sine qua nons"
+            ]
+        }
+    },
+    "txt": {},
+    "also": {
+        "adverb": {
+            "in like manner ": [
+                "alike",
+                "correspondingly",
+                "ditto",
+                "likewise",
+                "similarly",
+                "so"
+            ],
+            "in addition to what has been said ": [
+                "additionally",
+                "again",
+                "besides",
+                "either",
+                "further",
+                "furthermore",
+                "likewise",
+                "more",
+                "moreover",
+                "then",
+                "too",
+                "withal",
+                "yet"
+            ]
+        }
+    },
+    "have": {
+        "verb": {
+            "to keep, control, or experience as one's own ": [
+                "command",
+                "enjoy",
+                "hold",
+                "own",
+                "possess",
+                "retain"
+            ],
+            "to agree to receive whether willingly or reluctantly ": [
+                "accept",
+                "take"
+            ],
+            "to bring forth from the womb ": [
+                "bear",
+                "birth",
+                "deliver",
+                "drop",
+                "mother",
+                "produce"
+            ],
+            "to cause to believe what is untrue ": [
+                "bamboozle",
+                "beguile",
+                "bluff",
+                "buffalo",
+                "burn",
+                "catch",
+                "con",
+                "cozen",
+                "deceive",
+                "delude",
+                "dupe",
+                "fake out",
+                "fool",
+                "gaff",
+                "gammon",
+                "gull",
+                "have on",
+                "hoax",
+                "hoodwink",
+                "hornswoggle",
+                "humbug",
+                "juggle",
+                "misguide",
+                "misinform",
+                "mislead",
+                "snooker",
+                "snow",
+                "spoof",
+                "string along",
+                "suck in",
+                "sucker",
+                "take in",
+                "trick"
+            ],
+            "to come to a knowledge of (something) by living through it ": [
+                "endure",
+                "experience",
+                "feel",
+                "know",
+                "pass",
+                "see",
+                "suffer",
+                "sustain",
+                "taste",
+                "undergo",
+                "witness"
+            ],
+            "to give permission for or to approve of ": [
+                "allow",
+                "green-light",
+                "permit",
+                "suffer"
+            ],
+            "to influence someone with a bribe ": [
+                "bribe",
+                "buy",
+                "corrupt",
+                "pay off",
+                "square"
+            ],
+            "to keep in one's mind or heart ": [
+                "bear",
+                "cherish",
+                "entertain",
+                "harbor",
+                "hold",
+                "nurse"
+            ]
+        },
+        "noun": {
+            "a wealthy person ": [
+                "capitalist",
+                "Croesus",
+                "deep pocket",
+                "fat cat",
+                "money",
+                "moneybags",
+                "plutocrat",
+                "silk stocking"
+            ]
+        }
+    },
+    "api": {},
+    "key": {
+        "adjective": {
+            "coming before all others in importance ": [
+                "arch",
+                "big",
+                "capital",
+                "cardinal",
+                "central",
+                "chief",
+                "dominant",
+                "first",
+                "foremost",
+                "grand",
+                "great",
+                "greatest",
+                "highest",
+                "leading",
+                "main",
+                "master",
+                "number one",
+                "numero uno",
+                "overbearing",
+                "overmastering",
+                "overriding",
+                "paramount",
+                "predominant",
+                "preeminent",
+                "premier",
+                "primal",
+                "primary",
+                "principal",
+                "prior",
+                "sovereign",
+                "supreme"
+            ],
+            "of the greatest possible importance ": [
+                "critical",
+                "crucial",
+                "pivotal",
+                "vital"
+            ]
+        },
+        "noun": {
+            "an explanatory list of the symbols on a map or chart ": [
+                "legend"
+            ],
+            "something that allows someone to achieve a desired goal ": [
+                "gateway",
+                "open sesame",
+                "passport",
+                "secret",
+                "ticket"
+            ],
+            "the means or right of entering or participating in ": [
+                "access",
+                "accession",
+                "admission",
+                "admittance",
+                "door",
+                "doorway",
+                "entrance",
+                "entr\u00e9e",
+                "entry",
+                "gateway",
+                "ingress",
+                "passport",
+                "ticket"
+            ]
+        },
+        "verb": {
+            "to bring to a state free of conflicts, inconsistencies, or differences ": [
+                "accommodate",
+                "attune",
+                "conciliate",
+                "conform",
+                "coordinate",
+                "harmonize",
+                "reconcile"
+            ]
+        }
+    },
+    "merriam": {},
+    "webster": {},
+    "should": {
+        "verb": {
+            "to be under necessity or obligation to ": [
+                "have (to)",
+                "must",
+                "need",
+                "ought (to)",
+                "shall"
+            ]
+        }
+    },
+    "env": {},
+    "dictionary_api_key": {},
+    "not": {
+        "adverb": {
+            "in no way or under no circumstances ": [
+                "nevermore",
+                "infrequently",
+                "little",
+                "rarely",
+                "seldom",
+                "ne'er",
+                "never"
+            ]
+        }
+    },
+    "be": {
+        "verb": {
+            "to have life ": [
+                "breathe",
+                "exist",
+                "live",
+                "subsist"
+            ],
+            "to occupy a place or location ": [
+                "bear",
+                "lie",
+                "sit",
+                "stand"
+            ],
+            "to take or have a certain position within a group arranged in vertical classes ": [
+                "grade",
+                "place",
+                "rank",
+                "rate",
+                "stand"
+            ],
+            "to take place ": [
+                "befall",
+                "betide",
+                "chance",
+                "come",
+                "come about",
+                "come down",
+                "come off",
+                "cook",
+                "do",
+                "go down",
+                "go on",
+                "hap",
+                "happen",
+                "occur",
+                "pass",
+                "transpire"
+            ]
+        }
+    },
+    "able": {
+        "adjective": {
+            "having the required skills for an acceptable level of performance ": [
+                "capable",
+                "competent",
+                "equal",
+                "fit",
+                "good",
+                "qualified",
+                "suitable"
+            ]
+        }
+    },
+    "ask": {
+        "verb": {
+            "to put a question or questions to ": [
+                "catechize",
+                "grill",
+                "inquire (of)",
+                "interrogate",
+                "query",
+                "question",
+                "quiz"
+            ],
+            "to make a request of ": [
+                "hit (up)",
+                "request",
+                "solicit"
+            ],
+            "to set or receive as a price ": [
+                "charge",
+                "command",
+                "demand"
+            ],
+            "to request the presence or participation of ": [
+                "bid",
+                "invite"
+            ]
+        }
+    },
+    "their": {},
+    "synonyms": {
+        "noun": {
+            "as in {it}copies{/it}, {it}counterparts{/it}": [
+                "carbon copies",
+                "copies",
+                "duplicates",
+                "replicas",
+                "analogues",
+                "counterparts"
+            ]
+        }
+    },
+    "once": {
+        "adverb": {
+            "at an earlier or previous time ": [
+                "erstwhile",
+                "formerly",
+                "onetime"
+            ]
+        },
+        "adjective": {
+            "having been such at some previous time ": [
+                "erstwhile",
+                "former",
+                "late",
+                "old",
+                "onetime",
+                "other",
+                "past",
+                "quondam",
+                "sometime",
+                "whilom"
+            ]
+        },
+        "conjunction": {
+            "just at the moment that ": [
+                "as soon as",
+                "immediately",
+                "instantly",
+                "when"
+            ]
+        }
+    },
+    "setup": {
+        "noun": {
+            "the way in which something is sized, arranged, or organized ": [
+                "arrangement",
+                "configuration",
+                "conformation",
+                "format",
+                "formation",
+                "layout",
+                "setout"
+            ],
+            "the way objects in space or events in time are arranged or follow one another ": [
+                "arrangement",
+                "array",
+                "disposal",
+                "disposition",
+                "distribution",
+                "order",
+                "ordering",
+                "sequence"
+            ]
+        }
+    },
+    "uvicorn": {},
+    "main": {
+        "adjective": {
+            "coming before all others in importance ": [
+                "arch",
+                "big",
+                "capital",
+                "cardinal",
+                "central",
+                "chief",
+                "dominant",
+                "first",
+                "foremost",
+                "grand",
+                "great",
+                "greatest",
+                "highest",
+                "key",
+                "leading",
+                "master",
+                "number one",
+                "numero uno",
+                "overbearing",
+                "overmastering",
+                "overriding",
+                "paramount",
+                "predominant",
+                "preeminent",
+                "premier",
+                "primal",
+                "primary",
+                "principal",
+                "prior",
+                "sovereign",
+                "supreme"
+            ]
+        },
+        "noun": {
+            "muscular strength ": [
+                "beef",
+                "brawn",
+                "muscle",
+                "thew"
+            ],
+            "one of the great divisions of land on the globe or the main part of such a division ": [
+                "continent",
+                "landmass",
+                "mainland"
+            ],
+            "the main or greater part of something as distinguished from its subordinate parts ": [
+                "body",
+                "brunt",
+                "bulk",
+                "chief",
+                "core",
+                "generality",
+                "heft",
+                "mass",
+                "staple",
+                "weight"
+            ]
+        }
+    },
+    "app": {
+        "noun": {
+            "as in {it}starter{/it}, {it}appetizer{/it}": [
+                "amuse-bouche",
+                "amuse-gueule",
+                "antipasto",
+                "appetizer",
+                "canap\u00e9",
+                "cocktail",
+                "hors d'oeuvre",
+                "munchies",
+                "starter",
+                "finger food",
+                "natural food",
+                "commissary",
+                "rations",
+                "supplies",
+                "aliment",
+                "nutriment",
+                "diet",
+                "nourishment",
+                "nurture",
+                "sustenance",
+                "mess",
+                "pap",
+                "ensilage",
+                "feed",
+                "fodder",
+                "forage",
+                "silage",
+                "slop",
+                "swill",
+                "feast",
+                "meal",
+                "refreshments",
+                "regale",
+                "repast",
+                "spread",
+                "board",
+                "dish",
+                "plate",
+                "platter",
+                "serving"
+            ]
+        }
     }
 }
