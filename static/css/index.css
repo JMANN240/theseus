@@ -74,15 +74,12 @@ body {
     transition-duration: 0.1s;
 }
 
-#text {
+.half {
     width: 45vw;
-    height: 80vh;
+    height: 90vh;
 }
 
 #buttons {
-    width: 45vw;
-    min-height: 8vh;
-    height: 80vh;
     overflow-y: scroll;
 }
 
