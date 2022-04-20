@@ -1,5 +1,1 @@
-
-
-## Thanks to
-
-https://github.com/words/moby
+[Theseus](static/img/theseus.png)
