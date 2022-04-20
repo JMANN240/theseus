@@ -1,1 +1,1 @@
-![Theseus](static/img/theseus.png)
+[Theseus](static/img/theseus.png)
