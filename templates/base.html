@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/static/css/global.css">
+    <link rel="shortcut icon" href="/static/img/favicon.png" type="image/x-icon">
+    <script defer src="/static/js/base.js"></script>
+    {% block head %}{% endblock %}
+
+    <title>Theseus - {% block subpage %}{% endblock %}</title>
+</head>
+<body>
+    <div id='header' class="dark rounded flex row cross-centered">
+        <button class="dark rounded" id="block-button">Block</button>
+        <button class="dark rounded" id="single-button">Single</button>
+    </div>
+    <div id='content' class="flex row even stretch">
+    {% block content %}{% endblock %}
+    </div>
+</body>
+</html>

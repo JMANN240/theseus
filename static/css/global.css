@@ -19,9 +19,9 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
     background-color: black;
 }
 
@@ -74,12 +74,16 @@ body {
     transition-duration: 0.1s;
 }
 
-.half {
-    width: 45vw;
-    height: 90vh;
+#content {
+    flex-grow: 1;
 }
 
-#buttons {
+.half {
+    width: 50%;
+    flex-grow: 1;
+}
+
+#buttons, #synonyms {
     overflow-y: scroll;
 }
 

@@ -52,8 +52,13 @@ def addMerriamWebsterWord(word):
     return thesaurus[word]
 
 @app.get('/')
-async def index(request: Request):
-    return templates.TemplateResponse('index.html', {'request': request})
+@app.get('/block')
+async def block(request: Request):
+    return templates.TemplateResponse('block.html', {'request': request})
+
+@app.get('/single')
+async def single(request: Request):
+    return templates.TemplateResponse('single.html', {'request': request})
 
 @api.get('/thesaurus/{word}')
 async def get_synonym(word: str):
