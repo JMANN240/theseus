@@ -10362,5 +10362,99 @@
                 "presumably"
             ]
         }
+    },
+    "garden": {
+        "noun": {
+            "a large room or building for enclosed public gatherings ": [
+                "amphitheater",
+                "arena",
+                "auditorium",
+                "hall",
+                "theater"
+            ]
+        },
+        "adjective": {
+            "as in {it}common{/it}, {it}popular{/it}": [
+                "average",
+                "common",
+                "commonplace",
+                "customary",
+                "familiar",
+                "generic",
+                "normal",
+                "ordinary",
+                "plain",
+                "popular",
+                "routine",
+                "run-of-the-mill",
+                "run-of-the-mine",
+                "standard",
+                "typical",
+                "unexceptional",
+                "unremarkable",
+                "usual",
+                "earthly",
+                "temporal",
+                "worldly",
+                "frequent",
+                "habitual",
+                "regular",
+                "everyday",
+                "mundane",
+                "nitty-gritty",
+                "prosaic",
+                "terrestrial",
+                "workaday",
+                "expected",
+                "predictable"
+            ],
+            "as in {it}rural{/it}, {it}agricultural{/it}": [
+                "country",
+                "rural",
+                "rustic",
+                "villatic",
+                "agrarian",
+                "agricultural",
+                "farming",
+                "bucolic",
+                "georgic",
+                "pastoral",
+                "pastoralist",
+                "agronomic",
+                "arable",
+                "monocultural",
+                "aquacultural",
+                "arboricultural"
+            ]
+        }
+    },
+    "obelisks": {
+        "noun": {
+            "a tall, four-sided stone column that becomes narrower toward the top and that ends in a point ": [
+                "monoliths",
+                "needles",
+                "pillars",
+                "gravestones",
+                "headstones",
+                "monuments",
+                "stones",
+                "tombstones",
+                "crosses",
+                "markers",
+                "plaques",
+                "tables",
+                "tablets",
+                "memorials",
+                "shrines"
+            ]
+        }
+    },
+    "island": {
+        "noun": {
+            "a fairly small area of land completely surrounded by water ": [
+                "isle",
+                "islet"
+            ]
+        }
     }
 }

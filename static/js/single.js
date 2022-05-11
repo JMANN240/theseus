@@ -24,7 +24,7 @@ const populateSynonyms = async (word) => {
             def_div.classList.add('dark', 'rounded', 'flex', 'row', 'wrap', 'start');
             const def_header = document.createElement('h1');
             def_header.classList.add('dark', 'rounded', 'flex', 'def');
-            def_header.innerHTML = def;
+            def_header.innerHTML = def.replace(/ {it}/g, "&nbsp;<i>").replace(/{\/it}/g, "</i>");
             def_div.appendChild(def_header);
             for (const synonym of synonyms[pos][def]) {
                 def_div.appendChild(buildWordButton(synonym));
