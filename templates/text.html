@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <script defer src="/static/js/text.js"></script>
+{% endblock %}
+
+{% block subpage %}
+    Text
+{% endblock %}
+
+{% block content %}
+    <textarea id="text" class="dark rounded half"></textarea>
+    <div id="buttons" class="dark rounded half flex column start cross-start"></div>
+{% endblock %}

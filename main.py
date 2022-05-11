@@ -1,5 +1,5 @@
 import os
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, Body
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 import json
@@ -60,6 +60,10 @@ async def block(request: Request):
 async def single(request: Request):
     return templates.TemplateResponse('single.html', {'request': request})
 
+@app.get('/text')
+async def text(request: Request):
+    return templates.TemplateResponse('text.html', {'request': request})
+
 @api.get('/thesaurus/{word}')
 async def get_synonym(word: str):
     synonyms = thesaurus.get(word.lower(), None)
@@ -67,5 +71,15 @@ async def get_synonym(word: str):
         print("We don't have that word yet, asking Merriam-Webster!")
         synonyms = addMerriamWebsterWord(word.lower())
     else:
-        print("We have that word, getting it from out local thesaurus")
+        print("We have that word, getting it from our local thesaurus")
     return synonyms
+
+@api.get('/text')
+async def get_text():
+    with open('text.txt', 'r') as text_file:
+        return text_file.read()
+
+@api.post('/text')
+async def post_text(body: str = Body(...)):
+    with open('text.txt', 'w') as text_file:
+        text_file.write(body)

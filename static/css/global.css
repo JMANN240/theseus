@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 
 * {
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
-    font-size: 1.5vw;
+    font-weight: 300;
+    font-size: 2vh;
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
@@ -68,7 +68,7 @@ body {
 
 .rounded {
     margin: 0.5ch;
-    padding: 0.5ch;
+    padding: 1ch;
     border: 0.2ch solid currentColor;
     border-radius: 1ch;
     transition-duration: 0.1s;
@@ -80,7 +80,8 @@ body {
 
 .half {
     width: 50%;
-    flex-grow: 1;
+    height: 85vh;
+    flex-grow: 0;
 }
 
 #buttons, #synonyms {
@@ -97,11 +98,11 @@ button {
 }
 
 .pos {
-    font-size: 1.75vw;
+    font-size: 2.5vh;
     font-weight: 700;
 }
 
 .def {
-    font-size: 1.5vw;
+    font-size: 2vh;
     font-weight: 400;
 }

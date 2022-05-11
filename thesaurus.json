@@ -9491,5 +9491,865 @@
                 "sanctified"
             ]
         }
+    },
+    "path": {
+        "noun": {
+            "the direction along which something or someone moves ": [
+                "course",
+                "line",
+                "pathway",
+                "route",
+                "routeway",
+                "steps",
+                "track",
+                "way"
+            ],
+            "a rough course or way formed by or as if by repeated footsteps ": [
+                "footpath",
+                "pathway",
+                "trace",
+                "track",
+                "trail"
+            ],
+            "an established course for traveling from one place to another ": [
+                "approach",
+                "avenue",
+                "passage",
+                "route",
+                "way"
+            ]
+        }
+    },
+    "specific": {
+        "adjective": {
+            "of a particular or exact sort ": [
+                "concrete",
+                "distinct",
+                "especial",
+                "express",
+                "peculiar",
+                "precise",
+                "set",
+                "special"
+            ],
+            "so clearly expressed as to leave no doubt about the meaning ": [
+                "clear-cut",
+                "definite",
+                "definitive",
+                "explicit",
+                "express",
+                "unambiguous",
+                "unequivocal",
+                "univocal"
+            ]
+        },
+        "noun": {
+            "a substance or preparation used to treat disease ": [
+                "cure",
+                "drug",
+                "medicament",
+                "medication",
+                "medicinal",
+                "medicine",
+                "pharmaceutical",
+                "physic",
+                "remedy"
+            ],
+            "a single piece of information ": [
+                "datum",
+                "detail",
+                "fact",
+                "nicety",
+                "particular",
+                "particularity",
+                "point"
+            ],
+            "something that sets apart an individual from others of the same kind ": [
+                "affection",
+                "attribute",
+                "attribution",
+                "character",
+                "characteristic",
+                "criterion",
+                "diagnostic",
+                "differentia",
+                "feature",
+                "fingerprint",
+                "hallmark",
+                "mark",
+                "marker",
+                "note",
+                "particularity",
+                "peculiarity",
+                "point",
+                "property",
+                "quality",
+                "stamp",
+                "touch",
+                "trait"
+            ]
+        }
+    },
+    "specifically": {
+        "adverb": {
+            "in regard to something mentioned explicitly or in detail ": [
+                "especially",
+                "notably",
+                "particularly",
+                "specially"
+            ],
+            "in the specific case of one person or thing as distinguished from others ": [
+                "especially",
+                "particularly"
+            ]
+        }
+    },
+    "quiet": {
+        "adjective": {
+            "free from disturbing noise or uproar ": [
+                "arcadian",
+                "calm",
+                "hushed",
+                "peaceful",
+                "placid",
+                "restful",
+                "serene",
+                "still",
+                "stilly",
+                "tranquil"
+            ],
+            "not excessively showy ": [
+                "conservative",
+                "low-key",
+                "muted",
+                "repressed",
+                "restrained",
+                "sober",
+                "subdued",
+                "toned-down",
+                "understated",
+                "unflashy",
+                "unpretentious"
+            ],
+            "free from storms or physical disturbance ": [
+                "calm",
+                "halcyon",
+                "hushed",
+                "lown",
+                "peaceful",
+                "placid",
+                "serene",
+                "still",
+                "stilly",
+                "tranquil",
+                "untroubled"
+            ],
+            "screened or sequestered from view ": [
+                "cloistered",
+                "covert",
+                "hidden",
+                "isolated",
+                "remote",
+                "retired",
+                "secluded",
+                "secret",
+                "sheltered"
+            ],
+            "mostly or entirely without sound ": [
+                "hushed",
+                "muted",
+                "noiseless",
+                "quieted",
+                "silent",
+                "soundless",
+                "still",
+                "stilly"
+            ],
+            "not loud in pitch or volume ": [
+                "dull",
+                "gentle",
+                "low",
+                "soft"
+            ]
+        },
+        "adverb": {
+            "without motion ": [
+                "motionlessly",
+                "quietly",
+                "still"
+            ]
+        },
+        "noun": {
+            "a state of freedom from storm or disturbance ": [
+                "calm",
+                "calmness",
+                "hush",
+                "peace",
+                "peacefulness",
+                "placidity",
+                "quietness",
+                "quietude",
+                "repose",
+                "restfulness",
+                "sereneness",
+                "serenity",
+                "still",
+                "stillness",
+                "tranquillity"
+            ],
+            "the near or complete absence of sound ": [
+                "hush",
+                "quietness",
+                "quietude",
+                "silence",
+                "still",
+                "stillness"
+            ]
+        },
+        "verb": {
+            "to become still and orderly ": [
+                "calm (down)",
+                "chill out",
+                "cool",
+                "hush",
+                "pipe down",
+                "settle (down)"
+            ],
+            "to free from distress or disturbance ": [
+                "becalm",
+                "calm",
+                "compose",
+                "lull",
+                "lullaby",
+                "quieten",
+                "salve",
+                "settle",
+                "soothe",
+                "still",
+                "tranquilize"
+            ],
+            "to stop the noise or speech of ": [
+                "dumb",
+                "extinguish",
+                "hush",
+                "mute",
+                "quell",
+                "quieten",
+                "settle",
+                "shush",
+                "shut up",
+                "silence",
+                "squelch",
+                "still"
+            ]
+        }
+    },
+    "brought": {
+        "verb": {
+            "to be the cause of (a situation, action, or state of mind) ": [
+                "begot",
+                "bred",
+                "brought about",
+                "brought on",
+                "catalyzed",
+                "caused",
+                "created",
+                "did",
+                "drew on",
+                "effected",
+                "effectuated",
+                "engendered",
+                "generated",
+                "induced",
+                "invoked",
+                "made",
+                "occasioned",
+                "produced",
+                "prompted",
+                "resulted (in)",
+                "spawned",
+                "translated (into)",
+                "worked",
+                "yielded"
+            ],
+            "to cause (someone) to agree with a belief or course of action by using arguments or earnest request ": [
+                "argued",
+                "brought around",
+                "converted",
+                "convinced",
+                "gained",
+                "got",
+                "induced",
+                "moved",
+                "persuaded",
+                "prevailed (on or upon)",
+                "satisfied",
+                "talked (into)",
+                "won (over)"
+            ],
+            "to have a price of ": [
+                "cost",
+                "fetched",
+                "ran",
+                "sold (for)",
+                "went (for)"
+            ]
+        }
+    },
+    "flung": {
+        "verb": {
+            "to send through the air especially with a quick forward motion of the arm ": [
+                "cast",
+                "catapulted",
+                "chucked",
+                "dashed",
+                "fired",
+                "heaved",
+                "hurled",
+                "hurtled",
+                "launched",
+                "lobbed",
+                "lofted",
+                "pegged",
+                "pelted",
+                "pitched",
+                "slung",
+                "threw",
+                "tossed"
+            ]
+        }
+    },
+    "stood": {
+        "verb": {
+            "to occupy a place or location ": [
+                "bore",
+                "lay",
+                "sat",
+                "was"
+            ],
+            "to put up with (something painful or difficult) ": [
+                "abided",
+                "absorbed",
+                "accepted",
+                "bode",
+                "bore",
+                "brooked",
+                "countenanced",
+                "endured",
+                "hacked",
+                "handled",
+                "met",
+                "pocketed",
+                "stomached",
+                "stuck out",
+                "supported",
+                "sustained",
+                "sweat out",
+                "tolerated",
+                "took",
+                "went",
+                "wore"
+            ],
+            "to give what is owed for ": [
+                "anted (up)",
+                "balanced",
+                "cleared",
+                "discharged",
+                "footed",
+                "liquidated",
+                "met",
+                "paid",
+                "paid off",
+                "paid up",
+                "ponied up",
+                "quit",
+                "recompensed",
+                "settled",
+                "sprang (for)"
+            ],
+            "to take or have a certain position within a group arranged in vertical classes ": [
+                "graded",
+                "placed",
+                "ranked",
+                "rated",
+                "was"
+            ]
+        }
+    },
+    "stare": {
+        "verb": {
+            "to look long and hard in wonder or surprise ": [
+                "blink",
+                "gape",
+                "gawk",
+                "gawp",
+                "gaze",
+                "goggle",
+                "peer",
+                "rubberneck"
+            ]
+        },
+        "noun": {
+            "a fixed intent look ": [
+                "aspect",
+                "eye",
+                "gape",
+                "gaze",
+                "regard",
+                "scrutiny"
+            ]
+        }
+    },
+    "crumb": {
+        "noun": {
+            "a very small amount ": [
+                "ace",
+                "bit",
+                "dab",
+                "dram",
+                "driblet",
+                "glimmer",
+                "hint",
+                "lick",
+                "little",
+                "mite",
+                "nip",
+                "ounce",
+                "particle",
+                "peanuts",
+                "ray",
+                "scintilla",
+                "scruple",
+                "shade",
+                "shadow",
+                "shred",
+                "skosh",
+                "smack",
+                "smell",
+                "smidgen",
+                "snap",
+                "soup\u00e7on",
+                "spark",
+                "spatter",
+                "speck",
+                "splash",
+                "spot",
+                "sprinkling",
+                "strain",
+                "streak",
+                "suspicion",
+                "tad",
+                "touch",
+                "trace"
+            ],
+            "a very small piece ": [
+                "atom",
+                "bit",
+                "dribble",
+                "fleck",
+                "flyspeck",
+                "grain",
+                "granule",
+                "molecule",
+                "morsel",
+                "mote",
+                "nubbin",
+                "nugget",
+                "particle",
+                "patch",
+                "scrap",
+                "scruple",
+                "snip",
+                "snippet",
+                "speck",
+                "tittle"
+            ],
+            "a person whose behavior is offensive to others ": [
+                "bastard",
+                "beast",
+                "bleeder",
+                "blighter",
+                "boor",
+                "bounder",
+                "bugger",
+                "buzzard",
+                "cad",
+                "chuff",
+                "churl",
+                "clown",
+                "creep",
+                "cretin",
+                "crud",
+                "cur",
+                "dirtbag",
+                "dog",
+                "fink",
+                "heel",
+                "hound",
+                "jerk",
+                "joker",
+                "louse",
+                "lout",
+                "pill",
+                "rat",
+                "rat fink",
+                "reptile",
+                "rotter",
+                "schmuck",
+                "scum",
+                "scumbag",
+                "scuzzball",
+                "skunk",
+                "sleaze",
+                "sleazebag",
+                "sleazeball",
+                "slime",
+                "slimeball",
+                "slob",
+                "snake",
+                "so-and-so",
+                "sod",
+                "stinkard",
+                "stinker",
+                "swine",
+                "toad",
+                "varmint",
+                "vermin"
+            ]
+        }
+    },
+    "text": {
+        "noun": {
+            "a book used for instruction in a subject ": [
+                "handbook",
+                "manual",
+                "primer",
+                "textbook"
+            ]
+        }
+    },
+    "manual": {
+        "noun": {
+            "a book used for instruction in a subject ": [
+                "handbook",
+                "primer",
+                "text",
+                "textbook"
+            ]
+        },
+        "adjective": {
+            "as in {it}homemade{/it}, {it}man-made{/it}": [
+                "homemade",
+                "man-made",
+                "handcrafted",
+                "handmade",
+                "handwrought",
+                "bespoke",
+                "crafted",
+                "custom-built",
+                "custom-made"
+            ]
+        }
+    },
+    "really": {
+        "adverb": {
+            "in actual fact ": [
+                "actually",
+                "authentically",
+                "certifiably",
+                "genuinely",
+                "truly",
+                "veritably",
+                "very"
+            ],
+            "to tell the truth ": [
+                "actually",
+                "admittedly",
+                "forsooth",
+                "frankly",
+                "honestly",
+                "indeed",
+                "truly",
+                "truthfully",
+                "verily"
+            ],
+            "without any question ": [
+                "all right",
+                "alright",
+                "assuredly",
+                "certainly",
+                "clearly",
+                "definitely",
+                "doubtless",
+                "easily",
+                "forsooth",
+                "hands down",
+                "inarguably",
+                "incontestably",
+                "incontrovertibly",
+                "indeed",
+                "indisputably",
+                "plainly",
+                "so",
+                "sure",
+                "surely",
+                "truly",
+                "unarguably",
+                "undeniably",
+                "undoubtedly",
+                "unquestionably"
+            ],
+            "to a great degree ": [
+                "achingly",
+                "almighty",
+                "archly",
+                "awful",
+                "awfully",
+                "badly",
+                "beastly",
+                "blisteringly",
+                "bone",
+                "colossally",
+                "corking",
+                "cracking",
+                "damn",
+                "damned",
+                "dang",
+                "deadly",
+                "desperately",
+                "eminently",
+                "enormously",
+                "especially",
+                "ever",
+                "exceedingly",
+                "extra",
+                "extremely",
+                "fabulously",
+                "fantastically",
+                "far",
+                "fiercely",
+                "filthy",
+                "frightfully",
+                "full",
+                "greatly",
+                "heavily",
+                "highly",
+                "hugely",
+                "immensely",
+                "incredibly",
+                "intensely",
+                "jolly",
+                "majorly",
+                "mightily",
+                "mighty",
+                "monstrous",
+                "mortally",
+                "most",
+                "much",
+                "particularly",
+                "passing",
+                "rattling",
+                "real",
+                "right",
+                "roaring",
+                "roaringly",
+                "seriously",
+                "severely",
+                "so",
+                "sore",
+                "sorely",
+                "spanking",
+                "specially",
+                "stinking",
+                "such",
+                "super",
+                "supremely",
+                "surpassingly",
+                "terribly",
+                "that",
+                "thumping",
+                "too",
+                "unco",
+                "uncommonly",
+                "vastly",
+                "very",
+                "vitally",
+                "way",
+                "whacking",
+                "wicked",
+                "wildly"
+            ]
+        }
+    },
+    "experiment": {
+        "noun": {
+            "a procedure or operation carried out to resolve an uncertainty ": [
+                "essay",
+                "experimentation",
+                "test",
+                "trial"
+            ]
+        }
+    },
+    "rim": {
+        "noun": {
+            "the line or relatively narrow space that marks the outer limit of something ": [
+                "border",
+                "borderline",
+                "bound",
+                "boundary",
+                "brim",
+                "circumference",
+                "compass",
+                "confines",
+                "edge",
+                "edging",
+                "end",
+                "frame",
+                "fringe",
+                "hem",
+                "margin",
+                "perimeter",
+                "periphery",
+                "skirt",
+                "skirting",
+                "verge"
+            ]
+        },
+        "verb": {
+            "to serve as a border for ": [
+                "border",
+                "bound",
+                "edge",
+                "frame",
+                "fringe",
+                "margin",
+                "skirt"
+            ]
+        }
+    },
+    "men": {
+        "noun": {
+            "an adult male human being ": [
+                "bastards",
+                "blokes",
+                "bucks",
+                "cats",
+                "chappies",
+                "chaps",
+                "dudes",
+                "fellas",
+                "fellows",
+                "galoots",
+                "gentlemen",
+                "gents",
+                "guys",
+                "hombres",
+                "jacks",
+                "joes",
+                "jokers",
+                "lads",
+                "males"
+            ],
+            "a male romantic companion ": [
+                "beaux",
+                "boyfriends",
+                "boys",
+                "fellows",
+                "old men",
+                "swains"
+            ],
+            "a member of the human race ": [
+                "babies",
+                "beings",
+                "birds",
+                "bodies",
+                "bods",
+                "characters",
+                "cookies",
+                "creatures",
+                "customers",
+                "devils",
+                "ducks",
+                "eggs",
+                "faces",
+                "fish",
+                "guys",
+                "heads",
+                "human beings",
+                "humans",
+                "individuals",
+                "lives",
+                "mortals",
+                "parties",
+                "people",
+                "personages",
+                "scouts",
+                "slobs",
+                "sorts",
+                "souls",
+                "specimens",
+                "stiffs",
+                "things",
+                "wights"
+            ],
+            "the human race ": [
+                "humanities",
+                "humankinds"
+            ],
+            "the male partner in a marriage ": [
+                "hubbies",
+                "husbands",
+                "misters",
+                "old men"
+            ],
+            "a body of officers of the law ": [
+                "constabularies",
+                "forces",
+                "fuzzes",
+                "heat",
+                "police",
+                "police forces"
+            ]
+        }
+    },
+    "other": {
+        "adjective": {
+            "being not of the same kind ": [
+                "different",
+                "disparate",
+                "dissimilar",
+                "distant",
+                "distinct",
+                "distinctive",
+                "distinguishable",
+                "diverse",
+                "nonidentical",
+                "unalike",
+                "unlike"
+            ],
+            "resulting in an increase in amount or number ": [
+                "added",
+                "additional",
+                "another",
+                "else",
+                "farther",
+                "fresh",
+                "further",
+                "more"
+            ],
+            "having been such at some previous time ": [
+                "erstwhile",
+                "former",
+                "late",
+                "old",
+                "once",
+                "onetime",
+                "past",
+                "quondam",
+                "sometime",
+                "whilom"
+            ]
+        }
     }
 }

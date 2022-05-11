@@ -5,25 +5,6 @@ const buildWordButton = (word) => {
     const button = document.createElement('button');
     button.classList.add('dark', 'rounded', 'syn');
     button.innerHTML = word;
-    button.addEventListener('click', () => {
-        const not_first_word = word_index > 0;
-        if (not_first_word) {
-            const new_first_letter = word[0]
-            const vowels = ['a', 'e', 'i', 'o', 'u'];
-            const new_word_starts_with_vowel = vowels.includes(new_first_letter);
-            const last_word_was_a = words[word_index-1] == "a";
-            const last_word_was_A = words[word_index-1] == "A";
-            if (new_word_starts_with_vowel) {
-                if (last_word_was_A) {
-                    words[word_index-1] = "An";
-                } else if (last_word_was_a) {
-                    words[word_index-1] = "an";
-                }
-            }
-        }
-        words[word_index] = word;
-        advancePointer();
-    });
     return button;
 }
 
