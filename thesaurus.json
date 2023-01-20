@@ -15779,5 +15779,2007 @@
                 "pack"
             ]
         }
-    }
+    },
+    "a lot": {
+        "phrase": {
+            "to a large extent or degree ": [
+                "astronomically",
+                "big-time",
+                "broadly",
+                "colossally",
+                "considerably",
+                "enormously",
+                "extensively",
+                "greatly",
+                "highly",
+                "hugely",
+                "largely",
+                "massively",
+                "monstrously",
+                "monumentally",
+                "much",
+                "sizably",
+                "staggeringly",
+                "stupendously",
+                "tremendously",
+                "utterly",
+                "vastly"
+            ],
+            "many times ": [
+                "again and again",
+                "constantly",
+                "continually",
+                "frequently",
+                "hourly",
+                "much",
+                "oft",
+                "often",
+                "oftentimes",
+                "over and over",
+                "repeatedly"
+            ],
+            "to a great degree ": [
+                "achingly",
+                "almighty",
+                "archly",
+                "awful",
+                "awfully",
+                "badly",
+                "beastly",
+                "blisteringly",
+                "bone",
+                "colossally",
+                "corking",
+                "cracking",
+                "damn",
+                "damned",
+                "dang",
+                "deadly",
+                "desperately",
+                "eminently",
+                "enormously",
+                "especially",
+                "ever",
+                "exceedingly",
+                "extra",
+                "extremely",
+                "fabulously",
+                "fantastically",
+                "far",
+                "fiercely",
+                "filthy",
+                "frightfully",
+                "full",
+                "greatly",
+                "heavily",
+                "highly",
+                "hugely",
+                "immensely",
+                "incredibly",
+                "intensely",
+                "jolly",
+                "majorly",
+                "mightily",
+                "mighty",
+                "monstrous",
+                "mortally",
+                "most",
+                "much",
+                "particularly",
+                "passing",
+                "rattling",
+                "real",
+                "really",
+                "right",
+                "roaring",
+                "roaringly",
+                "seriously",
+                "severely",
+                "so",
+                "sore",
+                "sorely",
+                "spanking",
+                "specially",
+                "stinking",
+                "such",
+                "super",
+                "supremely",
+                "surpassingly",
+                "terribly",
+                "that",
+                "thumping",
+                "too",
+                "unco",
+                "uncommonly",
+                "vastly",
+                "very",
+                "vitally",
+                "way",
+                "whacking",
+                "wicked",
+                "wildly"
+            ]
+        }
+    },
+    "terse": {
+        "adjective": {
+            "marked by the use of few words to convey much information or meaning ": [
+                "aphoristic",
+                "apothegmatic",
+                "brief",
+                "capsule",
+                "compact",
+                "compendious",
+                "concise",
+                "crisp",
+                "curt",
+                "elliptical",
+                "epigrammatic",
+                "laconic",
+                "monosyllabic",
+                "pithy",
+                "sententious",
+                "succinct",
+                "summary",
+                "telegraphic",
+                "thumbnail"
+            ]
+        }
+    },
+    "stranded": {
+        "adjective": {
+            "resting on the shore or bottom of a body of water ": [
+                "aground",
+                "beached",
+                "grounded"
+            ]
+        },
+        "verb": {
+            "to cause irreparable damage to (a ship) by running aground or sinking ": [
+                "shipwrecked",
+                "wrecked"
+            ],
+            "to cause to remain behind ": [
+                "abandoned",
+                "deserted",
+                "forsook",
+                "left",
+                "marooned",
+                "quit"
+            ]
+        }
+    },
+    "look": {
+        "verb": {
+            "to give the impression of being ": [
+                "act",
+                "appear",
+                "come across (as)",
+                "come off (as)",
+                "feel",
+                "make",
+                "seem",
+                "sound"
+            ],
+            "to make known (as an idea, emotion, or opinion) ": [
+                "air",
+                "expound",
+                "express",
+                "give",
+                "raise",
+                "sound",
+                "state",
+                "vent",
+                "ventilate",
+                "voice"
+            ],
+            "to have in mind as a purpose or goal ": [
+                "aim",
+                "allow",
+                "aspire",
+                "calculate",
+                "contemplate",
+                "design",
+                "go",
+                "intend",
+                "mean",
+                "meditate",
+                "plan",
+                "propose",
+                "purport",
+                "purpose"
+            ]
+        },
+        "noun": {
+            "facial appearance regarded as an indication of mood or feeling ": [
+                "cast",
+                "countenance",
+                "expression",
+                "face",
+                "visage"
+            ],
+            "an instance of looking especially briefly ": [
+                "cast",
+                "eye",
+                "gander",
+                "glance",
+                "glimpse",
+                "peek",
+                "peep",
+                "regard",
+                "sight",
+                "view"
+            ],
+            "the outward form of someone or something especially as indicative of a quality ": [
+                "appearance",
+                "aspect",
+                "dress",
+                "figure",
+                "garb",
+                "mien",
+                "outside",
+                "presence",
+                "regard"
+            ],
+            "the qualities in a person or thing that as a whole give pleasure to the senses ": [
+                "aesthetics",
+                "attractiveness",
+                "beauteousness",
+                "beautifulness",
+                "beauty",
+                "comeliness",
+                "cuteness",
+                "fairness",
+                "gorgeousness",
+                "handsomeness",
+                "loveliness",
+                "prettiness",
+                "sightliness"
+            ]
+        }
+    },
+    "wide": {
+        "adjective": {
+            "having a greater than usual measure across ": [
+                "broad",
+                "fat",
+                "thick"
+            ],
+            "having considerable extent ": [
+                "broad",
+                "deep",
+                "expansive",
+                "extended",
+                "extensive",
+                "far-flung",
+                "far-reaching",
+                "rangy",
+                "sweeping",
+                "wide-ranging",
+                "widespread"
+            ]
+        },
+        "adverb": {
+            "to a full extent or degree ": [
+                "all",
+                "all of",
+                "all over",
+                "altogether",
+                "clean",
+                "completely",
+                "dead",
+                "enough",
+                "entire",
+                "entirely",
+                "even",
+                "exactly",
+                "fast",
+                "flat",
+                "full",
+                "fully",
+                "heartily",
+                "out",
+                "perfectly",
+                "plumb",
+                "quite",
+                "soundly",
+                "thoroughly",
+                "through and through",
+                "totally",
+                "utterly",
+                "well",
+                "wholly"
+            ]
+        }
+    },
+    "the brain": {},
+    "care of": {},
+    "take": {
+        "verb": {
+            "to reach for and take hold of by embracing with the fingers or arms ": [
+                "clasp",
+                "grasp",
+                "grip",
+                "hold"
+            ],
+            "to agree to receive whether willingly or reluctantly ": [
+                "accept",
+                "have"
+            ],
+            "to become affected with (a disease or disorder) ": [
+                "catch",
+                "come down (with)",
+                "contract",
+                "get",
+                "go down (with)",
+                "sicken (with)"
+            ],
+            "to decide to accept (someone or something) from a group of possibilities ": [
+                "cherry-pick",
+                "choose",
+                "cull",
+                "elect",
+                "handpick",
+                "name",
+                "opt (for)",
+                "pick",
+                "prefer",
+                "select",
+                "single (out)",
+                "tag"
+            ],
+            "to get possession of (something) by giving money in exchange for ": [
+                "buy",
+                "cop",
+                "pick up",
+                "purchase"
+            ],
+            "to have as a requirement ": [
+                "bear",
+                "challenge",
+                "claim",
+                "demand",
+                "necessitate",
+                "need",
+                "require",
+                "want",
+                "warrant"
+            ],
+            "to make or have room for ": [
+                "accommodate",
+                "fit",
+                "hold"
+            ],
+            "to produce a desired effect ": [
+                "act",
+                "operate",
+                "perform",
+                "work"
+            ],
+            "to put up with (something painful or difficult) ": [
+                "abide",
+                "absorb",
+                "accept",
+                "bear",
+                "bide",
+                "brook",
+                "countenance",
+                "endure",
+                "go",
+                "hack",
+                "handle",
+                "meet",
+                "pocket",
+                "stand",
+                "stick out",
+                "stomach",
+                "support",
+                "sustain",
+                "sweat out",
+                "tolerate",
+                "wear"
+            ],
+            "to regard as right or true ": [
+                "accept",
+                "believe",
+                "buy",
+                "credit",
+                "swallow",
+                "trust"
+            ],
+            "to achieve a victory over ": [
+                "beat",
+                "best",
+                "conquer",
+                "defeat",
+                "dispatch",
+                "do down",
+                "get",
+                "get around",
+                "lick",
+                "master",
+                "overbear",
+                "overcome",
+                "overmatch",
+                "prevail (over)",
+                "skunk",
+                "stop",
+                "subdue",
+                "surmount",
+                "trim",
+                "triumph (over)",
+                "upend",
+                "win (against)",
+                "worst"
+            ],
+            "to deal with (something) usually skillfully or efficiently ": [
+                "address",
+                "contend (with)",
+                "cope (with)",
+                "field",
+                "grapple (with)",
+                "hack",
+                "handle",
+                "manage",
+                "maneuver",
+                "manipulate",
+                "negotiate",
+                "play",
+                "swing",
+                "treat"
+            ],
+            "to offer entrance (as to a place, school, or privilege) to ": [
+                "admit",
+                "enter",
+                "receive"
+            ],
+            "to deprive of life ": [
+                "carry off",
+                "claim",
+                "croak",
+                "destroy",
+                "dispatch",
+                "do in",
+                "fell",
+                "kill",
+                "slay"
+            ]
+        },
+        "noun": {
+            "action or behavior that is done in return to other action or behavior ": [
+                "answer",
+                "reaction",
+                "reply",
+                "response"
+            ],
+            "the total amount collected or obtained especially at one time ": [
+                "bounty",
+                "catch",
+                "haul",
+                "yield"
+            ],
+            "something belonging to, due to, or contributed by an individual member of a group ": [
+                "allotment",
+                "allowance",
+                "cut",
+                "end",
+                "part",
+                "piece",
+                "portion",
+                "proportion",
+                "quota",
+                "share",
+                "slice"
+            ],
+            "a distinct treatment of something (as a story or a play) ": [
+                "interpretation",
+                "riff",
+                "variation"
+            ]
+        }
+    },
+    "drink": {
+        "verb": {
+            "to swallow in liquid form ": [
+                "belt (down)",
+                "gulp",
+                "guzzle",
+                "hoist",
+                "imbibe",
+                "knock back",
+                "pound (down)",
+                "quaff",
+                "sip",
+                "slug (down)",
+                "slurp",
+                "sup",
+                "swig",
+                "swill",
+                "toss (down or off)"
+            ],
+            "to partake excessively of alcoholic beverages ": [
+                "bib",
+                "booze",
+                "guzzle",
+                "liquor (up)",
+                "lush (up)",
+                "soak",
+                "tipple"
+            ],
+            "to take in (something liquid) through small openings ": [
+                "absorb",
+                "imbibe",
+                "soak (up)",
+                "sponge",
+                "suck (up)",
+                "take up"
+            ]
+        },
+        "noun": {
+            "a liquid suitable for drinking ": [
+                "beverage",
+                "drinkable",
+                "libation",
+                "potable",
+                "quencher"
+            ],
+            "the portion of a serving of a beverage that is swallowed at one time ": [
+                "belt",
+                "draft",
+                "drag",
+                "gulp",
+                "nip",
+                "quaff",
+                "shot",
+                "sip",
+                "slug",
+                "snort",
+                "sup",
+                "swallow",
+                "swig",
+                "swill"
+            ],
+            "a distilled beverage that can make a person drunk ": [
+                "alcohol",
+                "aqua vitae",
+                "ardent spirits",
+                "booze",
+                "bottle",
+                "firewater",
+                "grog",
+                "hooch",
+                "inebriant",
+                "intoxicant",
+                "John Barleycorn",
+                "juice",
+                "liquor",
+                "lush",
+                "moonshine",
+                "potable",
+                "rum",
+                "sauce",
+                "spirits",
+                "stimulant",
+                "strong drink",
+                "tipple"
+            ]
+        }
+    },
+    "the stars": {},
+    "loud": {
+        "adjective": {
+            "marked by a high volume of sound ": [
+                "blaring",
+                "blasting",
+                "booming",
+                "clamorous",
+                "clangorous",
+                "deafening",
+                "earsplitting",
+                "piercing",
+                "plangent",
+                "resounding",
+                "ringing",
+                "roaring",
+                "slam-bang",
+                "sonorous",
+                "stentorian",
+                "thundering",
+                "thunderous"
+            ],
+            "excessively showy ": [
+                "flamboyant",
+                "flaring",
+                "flashy",
+                "garish",
+                "gaudy",
+                "glitzy",
+                "noisy",
+                "ostentatious",
+                "razzle-dazzle",
+                "splashy",
+                "swank"
+            ]
+        },
+        "adverb": {
+            "as in {it}loudly{/it}, {it}flamboyantly{/it}": [
+                "flamboyantly",
+                "flashily",
+                "garishly",
+                "gaudily",
+                "loudly",
+                "ostentatiously",
+                "bravely",
+                "brightly",
+                "brilliantly",
+                "colorfully",
+                "gaily",
+                "fancily",
+                "ornately",
+                "swankily",
+                "gorgeously",
+                "richly",
+                "spectacularly",
+                "splendidly",
+                "strikingly",
+                "dapperly",
+                "dashingly",
+                "gallantly",
+                "jazzily",
+                "nattily",
+                "neatly",
+                "pertly",
+                "smartly",
+                "snappily",
+                "spiffily",
+                "conspicuously",
+                "luridly",
+                "shockingly"
+            ]
+        }
+    },
+    "flaring": {
+        "adjective": {
+            "excessively showy ": [
+                "flamboyant",
+                "flashy",
+                "garish",
+                "gaudy",
+                "glitzy",
+                "loud",
+                "noisy",
+                "ostentatious",
+                "razzle-dazzle",
+                "splashy",
+                "swank"
+            ]
+        },
+        "verb": {
+            "to shine with a bright harsh light ": [
+                "beating",
+                "blazing",
+                "burning",
+                "flaming",
+                "glaring"
+            ]
+        }
+    },
+    "blazing": {
+        "adjective": {
+            "being on fire ": [
+                "ablaze",
+                "afire",
+                "aflame",
+                "alight",
+                "burning",
+                "combusting",
+                "conflagrant",
+                "fiery",
+                "flaming",
+                "ignited",
+                "inflamed",
+                "kindled",
+                "lit"
+            ],
+            "having or expressing great depth of feeling ": [
+                "ardent",
+                "burning",
+                "charged",
+                "demonstrative",
+                "emotional",
+                "fervent",
+                "fervid",
+                "feverish",
+                "fiery",
+                "flaming",
+                "glowing",
+                "hot-blooded",
+                "impassioned",
+                "incandescent",
+                "intense",
+                "passional",
+                "passionate",
+                "perfervid",
+                "red-hot",
+                "religious",
+                "superheated",
+                "torrid",
+                "vehement",
+                "warm",
+                "warm-blooded"
+            ]
+        }
+    },
+    "silent": {
+        "adjective": {
+            "deliberately refraining from speech ": [
+                "dumb",
+                "mum",
+                "mute",
+                "muted",
+                "speechless",
+                "uncommunicative",
+                "wordless"
+            ],
+            "tending not to speak frequently (as by habit or inclination) ": [
+                "closemouthed",
+                "dumb",
+                "laconic",
+                "reserved",
+                "reticent",
+                "taciturn",
+                "tight-lipped",
+                "uncommunicative"
+            ],
+            "mostly or entirely without sound ": [
+                "hushed",
+                "muted",
+                "noiseless",
+                "quiet",
+                "quieted",
+                "soundless",
+                "still",
+                "stilly"
+            ]
+        },
+        "noun": {
+            "as in {it}talkie{/it}": [
+                "talkie",
+                "animated cartoon",
+                "cartoon",
+                "docudrama",
+                "documentary",
+                "feature",
+                "featurette",
+                "short",
+                "short subject",
+                "B movie",
+                "B picture",
+                "cofeature",
+                "film",
+                "flick",
+                "flicker",
+                "motion picture",
+                "movie",
+                "moving picture",
+                "picture"
+            ]
+        }
+    },
+    "patch": {
+        "noun": {
+            "a small area that is different (as in color) from the main part ": [
+                "blotch",
+                "dapple",
+                "dot",
+                "eyespot",
+                "fleck",
+                "mottle",
+                "pip",
+                "point",
+                "speck",
+                "speckle",
+                "splotch",
+                "spot"
+            ],
+            "a very small piece ": [
+                "atom",
+                "bit",
+                "crumb",
+                "dribble",
+                "fleck",
+                "flyspeck",
+                "grain",
+                "granule",
+                "molecule",
+                "morsel",
+                "mote",
+                "nubbin",
+                "nugget",
+                "particle",
+                "scrap",
+                "scruple",
+                "snip",
+                "snippet",
+                "speck",
+                "tittle"
+            ]
+        },
+        "verb": {
+            "to put into good shape or working order again ": [
+                "doctor",
+                "fix",
+                "mend",
+                "recondition",
+                "renovate",
+                "repair",
+                "revamp"
+            ]
+        }
+    },
+    "far": {
+        "adverb": {
+            "to a great degree ": [
+                "achingly",
+                "almighty",
+                "archly",
+                "awful",
+                "awfully",
+                "badly",
+                "beastly",
+                "blisteringly",
+                "bone",
+                "colossally",
+                "corking",
+                "cracking",
+                "damn",
+                "damned",
+                "dang",
+                "deadly",
+                "desperately",
+                "eminently",
+                "enormously",
+                "especially",
+                "ever",
+                "exceedingly",
+                "extra",
+                "extremely",
+                "fabulously",
+                "fantastically",
+                "fiercely",
+                "filthy",
+                "frightfully",
+                "full",
+                "greatly",
+                "heavily",
+                "highly",
+                "hugely",
+                "immensely",
+                "incredibly",
+                "intensely",
+                "jolly",
+                "majorly",
+                "mightily",
+                "mighty",
+                "monstrous",
+                "mortally",
+                "most",
+                "much",
+                "particularly",
+                "passing",
+                "rattling",
+                "real",
+                "really",
+                "right",
+                "roaring",
+                "roaringly",
+                "seriously",
+                "severely",
+                "so",
+                "sore",
+                "sorely",
+                "spanking",
+                "specially",
+                "stinking",
+                "such",
+                "super",
+                "supremely",
+                "surpassingly",
+                "terribly",
+                "that",
+                "thumping",
+                "too",
+                "unco",
+                "uncommonly",
+                "vastly",
+                "very",
+                "vitally",
+                "way",
+                "whacking",
+                "wicked",
+                "wildly"
+            ]
+        },
+        "adjective": {
+            "lasting for a considerable time ": [
+                "extended",
+                "great",
+                "lengthy",
+                "long",
+                "long-drawn-out",
+                "long-lived",
+                "long-term",
+                "marathon"
+            ],
+            "not close in time or space ": [
+                "away",
+                "deep",
+                "distant",
+                "far-flung",
+                "far-off",
+                "faraway",
+                "remote",
+                "removed"
+            ]
+        }
+    },
+    "back": {
+        "adverb": {
+            "earlier than the present time ": [
+                "ago",
+                "agone",
+                "since",
+                "syne"
+            ],
+            "toward the opposite direction ": [
+                "about",
+                "around",
+                "backward",
+                "round"
+            ],
+            "toward the rear ": [
+                "backward",
+                "rearward"
+            ]
+        },
+        "noun": {
+            "a behind part or surface ": [
+                "rear",
+                "reverse",
+                "tail"
+            ],
+            "a vulnerable point ": [
+                "Achilles' heel",
+                "chink",
+                "jugular",
+                "soft spot",
+                "underbelly"
+            ]
+        },
+        "verb": {
+            "to promote the interests or cause of ": [
+                "advocate",
+                "champion",
+                "endorse",
+                "patronize",
+                "plump (for)",
+                "plunk (for)",
+                "support"
+            ],
+            "to provide (someone) with what is useful or necessary to achieve an end ": [
+                "abet",
+                "aid",
+                "assist",
+                "backstop",
+                "help",
+                "prop (up)",
+                "support"
+            ],
+            "to provide evidence or information for (as a claim or idea) ": [
+                "bolster",
+                "buttress",
+                "corroborate",
+                "reinforce",
+                "shore (up)",
+                "substantiate",
+                "support"
+            ]
+        },
+        "adjective": {
+            "being at or in the part of something opposite the front part ": [
+                "aft",
+                "after",
+                "hind",
+                "hinder",
+                "hindmost",
+                "posterior",
+                "rear",
+                "rearward"
+            ]
+        }
+    },
+    "in a": {},
+    "confined": {
+        "adjective": {
+            "taken and held prisoner ": [
+                "apprehended",
+                "arrested",
+                "captive",
+                "captured",
+                "caught",
+                "imprisoned",
+                "incarcerated",
+                "interned",
+                "jailed"
+            ]
+        },
+        "verb": {
+            "to set bounds or an upper limit for ": [
+                "capped",
+                "circumscribed",
+                "held down",
+                "limited",
+                "restricted"
+            ],
+            "to put in or as if in prison ": [
+                "committed",
+                "immured",
+                "imprisoned",
+                "incarcerated",
+                "interned",
+                "jailed",
+                "jugged",
+                "locked (up)"
+            ]
+        }
+    },
+    "sanguine": {
+        "adjective": {
+            "eager for or marked by the shedding of blood, extreme violence, or killing ": [
+                "bloodthirsty",
+                "bloody",
+                "bloody-minded",
+                "homicidal",
+                "murdering",
+                "murderous",
+                "sanguinary",
+                "sanguineous"
+            ],
+            "having a healthy reddish skin tone ": [
+                "blooming",
+                "florid",
+                "flush",
+                "full-blooded",
+                "glowing",
+                "red",
+                "rosy",
+                "rubicund",
+                "ruddy"
+            ],
+            "having or showing a mind free from doubt ": [
+                "assured",
+                "certain",
+                "clear",
+                "cocksure",
+                "confident",
+                "doubtless",
+                "implicit",
+                "positive",
+                "sure"
+            ]
+        }
+    },
+    "hands": {
+        "noun": {
+            "the ability to direct the course of something ": [
+                "control",
+                "grasp"
+            ],
+            "the fact or state of having (something) at one's disposal ": [
+                "control",
+                "enjoyment",
+                "keeping",
+                "possession"
+            ]
+        },
+        "verb": {
+            "to put (something) into the possession of someone for use or consumption ": [
+                "delivers",
+                "feeds",
+                "furnishes",
+                "gives",
+                "hands over",
+                "provides",
+                "supplies"
+            ],
+            "to shift possession of (something) from one person to another ": [
+                "bucks",
+                "hands over",
+                "passes",
+                "reaches",
+                "transfers"
+            ],
+            "to put (something) into the possession or safekeeping of another ": [
+                "commends",
+                "commits",
+                "confides",
+                "consigns",
+                "delegates",
+                "delivers",
+                "entrusts",
+                "gives",
+                "gives over",
+                "hands over",
+                "leaves",
+                "passes",
+                "recommends",
+                "reposes",
+                "transfers",
+                "transmits",
+                "trusts",
+                "turns over",
+                "vests"
+            ]
+        }
+    },
+    "alcohol": {
+        "noun": {
+            "a distilled beverage that can make a person drunk ": [
+                "aqua vitae",
+                "ardent spirits",
+                "booze",
+                "bottle",
+                "drink",
+                "firewater",
+                "grog",
+                "hooch",
+                "inebriant",
+                "intoxicant",
+                "John Barleycorn",
+                "juice",
+                "liquor",
+                "lush",
+                "moonshine",
+                "potable",
+                "rum",
+                "sauce",
+                "spirits",
+                "stimulant",
+                "strong drink",
+                "tipple"
+            ]
+        }
+    },
+    "warm": {
+        "adjective": {
+            "having or giving off heat to a moderate degree ": [
+                "heated",
+                "hottish",
+                "lukewarm",
+                "tepid",
+                "toasty",
+                "warmed",
+                "warmish"
+            ],
+            "having or expressing great depth of feeling ": [
+                "ardent",
+                "blazing",
+                "burning",
+                "charged",
+                "demonstrative",
+                "emotional",
+                "fervent",
+                "fervid",
+                "feverish",
+                "fiery",
+                "flaming",
+                "glowing",
+                "hot-blooded",
+                "impassioned",
+                "incandescent",
+                "intense",
+                "passional",
+                "passionate",
+                "perfervid",
+                "red-hot",
+                "religious",
+                "superheated",
+                "torrid",
+                "vehement",
+                "warm-blooded"
+            ],
+            "having or showing kindly feeling and sincere interest ": [
+                "amicable",
+                "bonhomous",
+                "buddy-buddy",
+                "chummy",
+                "collegial",
+                "companionable",
+                "comradely",
+                "cordial",
+                "friendly",
+                "genial",
+                "hail-fellow",
+                "hail-fellow-well-met",
+                "hearty",
+                "matey",
+                "neighborly",
+                "palsy",
+                "palsy-walsy",
+                "warmhearted"
+            ]
+        },
+        "verb": {
+            "to cause to have or give off heat to a moderate degree ": [
+                "heat",
+                "hot (up)",
+                "toast"
+            ],
+            "to give satisfaction to ": [
+                "agree (with)",
+                "content",
+                "delight",
+                "feast",
+                "gas",
+                "glad",
+                "gladden",
+                "gratify",
+                "please",
+                "pleasure",
+                "rejoice",
+                "satisfy",
+                "suit"
+            ]
+        }
+    },
+    "for this": {},
+    "fell": {
+        "verb": {
+            "to strike (someone) so forcefully as to cause a fall ": [
+                "bowl (down or over)",
+                "down",
+                "drop",
+                "floor",
+                "knock down",
+                "knock over",
+                "level",
+                "mow (down)",
+                "prostrate"
+            ],
+            "to bring down by cutting ": [
+                "chop (down)",
+                "cut (down)",
+                "hew",
+                "mow"
+            ],
+            "to deprive of life ": [
+                "carry off",
+                "claim",
+                "croak",
+                "destroy",
+                "dispatch",
+                "do in",
+                "kill",
+                "slay",
+                "take"
+            ]
+        },
+        "adjective": {
+            "likely to cause or capable of causing death ": [
+                "baleful",
+                "deadly",
+                "deathly",
+                "fatal",
+                "killer",
+                "lethal",
+                "mortal",
+                "murderous",
+                "pestilent",
+                "terminal",
+                "vital"
+            ],
+            "violently unfriendly or aggressive in disposition ": [
+                "ferocious",
+                "fierce",
+                "grim",
+                "savage",
+                "vicious"
+            ]
+        }
+    },
+    "fall": {
+        "verb": {
+            "to go down from an upright position suddenly and involuntarily ": [
+                "slip",
+                "stumble",
+                "topple",
+                "trip",
+                "tumble"
+            ],
+            "to yield to the control or power of enemy forces ": [
+                "capitulate",
+                "give up",
+                "knuckle under",
+                "submit",
+                "succumb",
+                "surrender"
+            ],
+            "to go to a lower level especially abruptly ": [
+                "crash",
+                "crater",
+                "decline",
+                "descend",
+                "dip",
+                "dive",
+                "drop",
+                "lower",
+                "nose-dive",
+                "plummet",
+                "plunge",
+                "sink",
+                "skid",
+                "tumble"
+            ],
+            "to grow less in scope or intensity especially gradually ": [
+                "abate",
+                "de-escalate",
+                "decline",
+                "decrease",
+                "die (away or down or out)",
+                "diminish",
+                "drain (away)",
+                "drop (off)",
+                "dwindle",
+                "ease",
+                "ebb",
+                "fall away",
+                "lessen",
+                "let up",
+                "lower",
+                "moderate",
+                "pall",
+                "phase down",
+                "ratchet (down)",
+                "recede",
+                "relent",
+                "remit",
+                "shrink",
+                "subside",
+                "taper",
+                "taper off",
+                "wane"
+            ],
+            "to lead or extend downward ": [
+                "decline",
+                "descend",
+                "dip",
+                "drop",
+                "plunge",
+                "sink"
+            ],
+            "to undergo defeat ": [
+                "bow out",
+                "lose"
+            ],
+            "to commit an offense ": [
+                "err",
+                "offend",
+                "sin",
+                "stray",
+                "transgress",
+                "trespass",
+                "wander"
+            ],
+            "to stop living ": [
+                "check out",
+                "conk (out)",
+                "croak",
+                "decease",
+                "demise",
+                "depart",
+                "die",
+                "drop",
+                "end",
+                "exit",
+                "expire",
+                "flatline",
+                "go",
+                "kick in",
+                "kick off",
+                "part",
+                "pass (on)",
+                "pass away",
+                "peg out",
+                "perish",
+                "pop off",
+                "step out",
+                "succumb"
+            ]
+        },
+        "noun": {
+            "the act of going down from an upright position suddenly and involuntarily ": [
+                "slip",
+                "spill",
+                "stumble",
+                "tumble"
+            ],
+            "a change to a lower state or level ": [
+                "decadence",
+                "declension",
+                "declination",
+                "decline",
+                "degeneracy",
+                "degeneration",
+                "degradation",
+                "d\u00e9gringolade",
+                "descent",
+                "deterioration",
+                "devolution",
+                "downfall",
+                "downgrade",
+                "ebb",
+                "eclipse"
+            ],
+            "a loss of status ": [
+                "comedown",
+                "decline",
+                "d\u00e9gringolade",
+                "demise",
+                "descent",
+                "down",
+                "downfall",
+                "flameout",
+                "G\u00f6tterd\u00e4mmerung"
+            ],
+            "the act or process of going to a lower level or altitude ": [
+                "descent",
+                "dip",
+                "dive",
+                "down",
+                "drop",
+                "nosedive",
+                "plunge"
+            ],
+            "the amount by which something is lessened ": [
+                "abatement",
+                "decline",
+                "decrease",
+                "decrement",
+                "dent",
+                "depletion",
+                "depression",
+                "diminishment",
+                "diminution",
+                "drop",
+                "drop-off",
+                "falloff",
+                "loss",
+                "reduction",
+                "shrinkage",
+                "step-down"
+            ],
+            "a fall of water usually from a great height ": [
+                "cascade",
+                "cataract",
+                "waterfall"
+            ],
+            "a downward slope ": [
+                "declension",
+                "decline",
+                "declivity",
+                "descent",
+                "dip",
+                "downgrade",
+                "downhill",
+                "hang",
+                "hanging"
+            ]
+        }
+    },
+    "plunge": {
+        "verb": {
+            "to cast oneself head first into deep water ": [
+                "dive",
+                "pitch",
+                "sound"
+            ],
+            "to go to a lower level especially abruptly ": [
+                "crash",
+                "crater",
+                "decline",
+                "descend",
+                "dip",
+                "dive",
+                "drop",
+                "fall",
+                "lower",
+                "nose-dive",
+                "plummet",
+                "sink",
+                "skid",
+                "tumble"
+            ],
+            "to lead or extend downward ": [
+                "decline",
+                "descend",
+                "dip",
+                "drop",
+                "fall",
+                "sink"
+            ]
+        },
+        "noun": {
+            "an act or instance of diving ": [
+                "dive",
+                "pitch"
+            ],
+            "the act or process of going to a lower level or altitude ": [
+                "descent",
+                "dip",
+                "dive",
+                "down",
+                "drop",
+                "fall",
+                "nosedive"
+            ]
+        }
+    },
+    "silently": {
+        "adverb": {
+            "as in {it}soundlessly{/it}, {it}inaudibly{/it}": [
+                "inaudibly",
+                "soundlessly",
+                "voicelessly",
+                "faintly",
+                "feebly",
+                "low",
+                "noiselessly",
+                "quietly",
+                "softly"
+            ]
+        }
+    },
+    "noise": {
+        "noun": {
+            "loud, confused, and usually inharmonious sound ": [
+                "babel",
+                "blare",
+                "bluster",
+                "bowwow",
+                "brawl",
+                "bruit",
+                "cacophony",
+                "chatter",
+                "clamor",
+                "clangor",
+                "decibel(s)",
+                "din",
+                "discordance",
+                "katzenjammer",
+                "racket",
+                "rattle",
+                "roar"
+            ],
+            "a violent shouting ": [
+                "clamor",
+                "howl",
+                "hubbub",
+                "hue and cry",
+                "hullabaloo",
+                "outcry",
+                "roar",
+                "tumult",
+                "uproar",
+                "vociferation"
+            ],
+            "information or opinion that is widely disseminated without any authority or confirmation of accuracy ": [
+                "buzz",
+                "dish",
+                "gossip",
+                "hearsay",
+                "report",
+                "rumor",
+                "scuttlebutt",
+                "talk",
+                "tattle",
+                "word"
+            ]
+        }
+    },
+    "inside": {
+        "preposition": {
+            "as in {it}within{/it}": [
+                "within"
+            ]
+        },
+        "adverb": {
+            "as in {it}in{/it}, {it}within{/it}": [
+                "in",
+                "within",
+                "indoors"
+            ]
+        },
+        "adjective": {
+            "not known or meant to be known by the general populace ": [
+                "behind-the-scenes",
+                "confidential",
+                "esoteric",
+                "hush-hush",
+                "hushed",
+                "intimate",
+                "nonpublic",
+                "private",
+                "privy",
+                "secret"
+            ],
+            "situated farther in ": [
+                "inner",
+                "interior",
+                "internal",
+                "inward"
+            ]
+        },
+        "noun": {
+            "an interior or internal part ": [
+                "innards",
+                "interior",
+                "within"
+            ],
+            "the internal organs of the body ": [
+                "entrails",
+                "gut",
+                "innards",
+                "inwards",
+                "viscera",
+                "vitals"
+            ],
+            "the seat of one's deepest thoughts and emotions ": [
+                "belly",
+                "blood",
+                "bone(s)",
+                "bosom",
+                "breast",
+                "core",
+                "gut",
+                "heart",
+                "heartstrings",
+                "inner space",
+                "quick",
+                "soul"
+            ],
+            "information not generally available to the public ": [
+                "411",
+                "book",
+                "dope",
+                "lowdown",
+                "poop",
+                "scoop",
+                "skinny",
+                "tip"
+            ]
+        }
+    },
+    "door": {
+        "noun": {
+            "a barrier by which an entry is closed and opened ": [
+                "gate",
+                "hatch",
+                "portal"
+            ],
+            "the opening through which one can enter or leave a structure ": [
+                "doorway",
+                "entrance",
+                "gate",
+                "gateway",
+                "way"
+            ],
+            "the means or right of entering or participating in ": [
+                "access",
+                "accession",
+                "admission",
+                "admittance",
+                "doorway",
+                "entrance",
+                "entr\u00e9e",
+                "entry",
+                "gateway",
+                "ingress",
+                "key",
+                "passport",
+                "ticket"
+            ]
+        }
+    },
+    "regular": {
+        "adjective": {
+            "appearing or occurring repeatedly from time to time ": [
+                "constant",
+                "frequent",
+                "habitual",
+                "periodic",
+                "periodical",
+                "repeated",
+                "steady"
+            ],
+            "following a set method, arrangement, or pattern ": [
+                "methodical",
+                "neat",
+                "orderly",
+                "organized",
+                "systematic",
+                "systematized"
+            ],
+            "following or agreeing with established form, custom, or rules ": [
+                "ceremonial",
+                "ceremonious",
+                "conventional",
+                "formal",
+                "orthodox",
+                "routine"
+            ],
+            "having no exceptions or restrictions ": [
+                "absolute",
+                "all-out",
+                "arrant",
+                "blank",
+                "blooming",
+                "bodacious",
+                "categorical",
+                "clean",
+                "complete",
+                "consummate",
+                "crashing",
+                "damn",
+                "damned",
+                "dead",
+                "deadly",
+                "definite",
+                "downright",
+                "dreadful",
+                "fair",
+                "flat",
+                "flat-out",
+                "out-and-out",
+                "outright",
+                "perfect",
+                "plumb",
+                "profound",
+                "pure",
+                "rank",
+                "sheer",
+                "simple",
+                "stark",
+                "stone",
+                "straight-out",
+                "thorough",
+                "thoroughgoing",
+                "total",
+                "unadulterated",
+                "unalloyed",
+                "unconditional",
+                "unmitigated",
+                "unqualified",
+                "utter",
+                "very"
+            ],
+            "having or showing the qualities associated with the members of a particular group or kind ": [
+                "archetypal",
+                "average",
+                "characteristic",
+                "normal",
+                "representative",
+                "standard",
+                "true",
+                "typical"
+            ]
+        },
+        "noun": {
+            "a person engaged in military service ": [
+                "dogface",
+                "fighter",
+                "legionary",
+                "legionnaire",
+                "man-at-arms",
+                "serviceman",
+                "soldier",
+                "trooper",
+                "warrior"
+            ],
+            "someone who regularly spends time in a particular place ": [
+                "denizen",
+                "familiar",
+                "frequenter",
+                "habitu\u00e9",
+                "haunter",
+                "rat"
+            ]
+        }
+    },
+    "out": {
+        "adverb": {
+            "in or into the open air ": [
+                "alfresco",
+                "outdoors",
+                "outside"
+            ],
+            "with one's normal voice speaking the words ": [
+                "aloud",
+                "audibly",
+                "out loud"
+            ],
+            "to a full extent or degree ": [
+                "all",
+                "all of",
+                "all over",
+                "altogether",
+                "clean",
+                "completely",
+                "dead",
+                "enough",
+                "entire",
+                "entirely",
+                "even",
+                "exactly",
+                "fast",
+                "flat",
+                "full",
+                "fully",
+                "heartily",
+                "perfectly",
+                "plumb",
+                "quite",
+                "soundly",
+                "thoroughly",
+                "through and through",
+                "totally",
+                "utterly",
+                "well",
+                "wholly",
+                "wide"
+            ],
+            "from this or that place ": [
+                "away",
+                "down",
+                "fro",
+                "hence",
+                "off"
+            ]
+        },
+        "noun": {
+            "the act or a means of getting or keeping away from something undesirable ": [
+                "avoidance",
+                "cop-out",
+                "dodging",
+                "ducking",
+                "eluding",
+                "elusion",
+                "escape",
+                "eschewal",
+                "eschewing",
+                "evasion",
+                "shaking",
+                "shunning"
+            ]
+        },
+        "adjective": {
+            "fully committed to achieving a goal ": [
+                "bent (on or upon)",
+                "bound",
+                "decisive",
+                "determined",
+                "do-or-die",
+                "firm",
+                "hell-bent (on or upon)",
+                "intent",
+                "purposeful",
+                "resolute",
+                "resolved",
+                "set",
+                "single-minded"
+            ],
+            "not at a certain place ": [
+                "absent",
+                "away",
+                "missing"
+            ]
+        },
+        "verb": {
+            "to become known ": [
+                "break",
+                "circulate",
+                "come out",
+                "get about",
+                "get around",
+                "get out",
+                "get round",
+                "leak (out)",
+                "spread"
+            ],
+            "to drive or force out ": [
+                "banish",
+                "boot (out)",
+                "bounce",
+                "cast out",
+                "chase",
+                "dismiss",
+                "drum (out)",
+                "eject",
+                "expel",
+                "extrude",
+                "kick out",
+                "oust",
+                "rout",
+                "run off",
+                "throw out",
+                "turf (out)",
+                "turn out"
+            ]
+        }
+    },
+    "even more slowly": {},
+    "slowness": {
+        "noun": {
+            "the quality or state of lacking intelligence or quickness of mind ": [
+                "boneheadedness",
+                "brainlessness",
+                "denseness",
+                "density",
+                "dim-wittedness",
+                "doltishness",
+                "dopiness",
+                "dorkiness",
+                "dullness",
+                "dumbness",
+                "fatuity",
+                "foolishness",
+                "gormlessness",
+                "mindlessness",
+                "oafishness",
+                "obtuseness",
+                "senselessness",
+                "simpleness",
+                "stupidity",
+                "stupidness",
+                "thickness",
+                "vacuity",
+                "weak-mindedness",
+                "witlessness"
+            ]
+        }
+    },
+    "stars": {
+        "noun": {
+            "a ball-shaped gaseous celestial body that shines by its own light ": [
+                "luminaries",
+                "spheres",
+                "suns"
+            ],
+            "the person who has the most important role in a play, movie, or TV show ": [
+                "headliners",
+                "leads",
+                "principals"
+            ],
+            "a person who is widely known and usually much talked about ": [
+                "causes c\u00e9l\u00e8bres",
+                "celebrities",
+                "celebs",
+                "figures",
+                "icons",
+                "lights",
+                "luminaries",
+                "megastars",
+                "names",
+                "notabilities",
+                "notables",
+                "notorieties",
+                "personages",
+                "personalities",
+                "somebodies",
+                "standouts",
+                "superstars",
+                "VIPs"
+            ]
+        }
+    },
+    "them": {}
 }

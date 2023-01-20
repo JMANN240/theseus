@@ -59,7 +59,7 @@ const populateSynonyms = async (word) => {
 
 const getText = async () => {
     const text_res = await fetch(`/api/text`);
-    const text = (await text_res.text()).slice(1, -1).replace(/\\n/g, "\n");
+    const text = (await text_res.text()).slice(1, -1).replace(/\\n/g, "\n").replace(/\\"/g, "\"");
     text_box.value = text;
 }
 
