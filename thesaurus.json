@@ -17781,5 +17781,57 @@
             ]
         }
     },
-    "them": {}
+    "them": {},
+    "'": {},
+    "sharpest": {},
+    "knife": {
+        "noun": {
+            "an instrument with a metal length that has a sharp edge for cutting ": [
+                "blade",
+                "cutter",
+                "shank",
+                "shiv"
+            ]
+        },
+        "verb": {
+            "as in {it}cut{/it}, {it}slice{/it}": [
+                "cut",
+                "slice",
+                "pinprick",
+                "poke",
+                "prick",
+                "punch",
+                "thrust",
+                "bayonet",
+                "dirk",
+                "gimlet",
+                "pike",
+                "poniard",
+                "prong",
+                "quill",
+                "perforate",
+                "riddle",
+                "spindle",
+                "gore",
+                "harpoon",
+                "impale",
+                "jab",
+                "lance",
+                "peck",
+                "pick",
+                "pierce",
+                "pink",
+                "puncture",
+                "run through",
+                "skewer",
+                "spear",
+                "spike",
+                "spit",
+                "stab",
+                "stick",
+                "transfix",
+                "transpierce"
+            ]
+        }
+    }
 }
