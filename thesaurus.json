@@ -17833,5 +17833,190 @@
                 "transpierce"
             ]
         }
-    }
+    },
+    "blood": {
+        "noun": {
+            "a group of persons who come from the same ancestor ": [
+                "clan",
+                "family",
+                "folks",
+                "house",
+                "kin",
+                "kindred",
+                "kinfolk",
+                "kinsfolk",
+                "line",
+                "lineage",
+                "people",
+                "race",
+                "stock",
+                "tribe"
+            ],
+            "the line of ancestors from whom a person is descended ": [
+                "ancestry",
+                "birth",
+                "bloodline",
+                "breeding",
+                "descent",
+                "extraction",
+                "family tree",
+                "genealogy",
+                "line",
+                "lineage",
+                "origin",
+                "parentage",
+                "pedigree",
+                "stock",
+                "strain"
+            ],
+            "the seat of one's deepest thoughts and emotions ": [
+                "belly",
+                "bone(s)",
+                "bosom",
+                "breast",
+                "core",
+                "gut",
+                "heart",
+                "heartstrings",
+                "inner space",
+                "inside",
+                "quick",
+                "soul"
+            ],
+            "the intentional and unlawful taking of another person's life ": [
+                "foul play",
+                "homicide",
+                "murder",
+                "rubout",
+                "slaying"
+            ]
+        }
+    },
+    "block": {
+        "noun": {
+            "a number of things considered as a unit ": [
+                "array",
+                "assemblage",
+                "band",
+                "bank",
+                "batch",
+                "battery",
+                "bunch",
+                "clot",
+                "clump",
+                "cluster",
+                "clutch",
+                "collection",
+                "constellation",
+                "group",
+                "grouping",
+                "huddle",
+                "knot",
+                "lot",
+                "muster",
+                "package",
+                "parcel",
+                "passel",
+                "set",
+                "suite"
+            ],
+            "something that makes movement or progress difficult ": [
+                "balk",
+                "bar",
+                "chain",
+                "clog",
+                "cramp",
+                "crimp",
+                "deterrent",
+                "drag",
+                "embarrassment",
+                "encumbrance",
+                "fetter",
+                "handicap",
+                "hindrance",
+                "holdback",
+                "hurdle",
+                "impediment",
+                "inhibition",
+                "interference",
+                "let",
+                "manacle",
+                "obstacle",
+                "obstruction",
+                "shackles",
+                "stop",
+                "stumbling block",
+                "trammel"
+            ],
+            "the upper or front part of the body that contains the brain, the major sense organs, and the mouth ": [
+                "bean",
+                "dome",
+                "head",
+                "mazard",
+                "nob",
+                "noddle",
+                "noggin",
+                "noodle",
+                "nut",
+                "pate",
+                "poll"
+            ],
+            "a group of people acting together within a larger group ": [
+                "bloc",
+                "body",
+                "coalition",
+                "faction",
+                "party",
+                "sect",
+                "set",
+                "side",
+                "wing"
+            ],
+            "an association of persons, parties, or states for mutual assistance and protection ": [
+                "alliance",
+                "axis",
+                "bloc",
+                "coalition",
+                "combination",
+                "combine",
+                "confederacy",
+                "confederation",
+                "federation",
+                "league",
+                "union"
+            ]
+        },
+        "verb": {
+            "to close up so that no empty spaces remain ": [
+                "bung",
+                "dam",
+                "fill",
+                "pack",
+                "plug",
+                "stop",
+                "stuff"
+            ],
+            "to prevent passage through by filling with something ": [
+                "choke",
+                "clog",
+                "clot",
+                "congest",
+                "dam",
+                "gum (up)",
+                "jam",
+                "obstruct",
+                "occlude",
+                "plug (up)",
+                "stop (up)",
+                "stuff"
+            ],
+            "to stop, seize, or interrupt while in progress or on course ": [
+                "intercept",
+                "interdict",
+                "pick off"
+            ]
+        }
+    },
+    "mode": {},
+    "autothesaurus": {}
 }

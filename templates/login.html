@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <script defer src="/static/js/login.js"></script>
+{% endblock %}
+
+{% block subpage %}
+    Login
+{% endblock %}
+
+{% block content %}
+    <div class="dark rounded flex column">
+		<h1 class="dark rounded">Login</h1>
+		<input class="glow dark rounded" type="text" name="username" placeholder="Username" id="username-input">
+		<input class="glow dark rounded" type="password" name="password" placeholder="Password" id="password-input">
+		<button class="dark rounded" id="submit-button">Login</button>
+	</div>
+{% endblock %}

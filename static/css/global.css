@@ -53,6 +53,10 @@ body {
     justify-content: space-evenly;
 }
 
+.between {
+	justify-content: space-between;
+}
+
 .cross-centered {
     align-items: center;
 }
@@ -92,7 +96,7 @@ button {
     min-width: 5vw;
 }
 
-#text:focus {
+.glow:focus {
     outline: none;
     box-shadow: 0 0 5px 0 white;
 }
@@ -105,4 +109,31 @@ button {
 .def {
     font-size: 2vh;
     font-weight: 400;
+}
+
+.grow {
+	flex-grow: 1;
+}
+
+.m0 {
+	margin: 0;
+}
+
+.p0 {
+	padding: 0;
+}
+
+.fade-in {
+	animation-duration: 1s;
+	animation-name: fadein;
+}
+
+@keyframes fadein {
+	from {
+		opacity: 0%;
+	}
+
+	to {
+		opacity: 100%;
+	}
 }

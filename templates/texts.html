@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <script defer src="/static/js/texts.js"></script>
+{% endblock %}
+
+{% block subpage %}
+    Text
+{% endblock %}
+
+{% block content %}
+	<div class="half dark rounded flex column" id="texts">
+		<button class="dark rounded" id="new-text-button">+ New Text</button>
+	</div>
+    <div id="buttons" class="dark rounded half flex column start cross-start"></div>
+{% endblock %}

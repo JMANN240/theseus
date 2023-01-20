@@ -13,10 +13,20 @@
     <title>Theseus - {% block subpage %}{% endblock %}</title>
 </head>
 <body>
-    <div id='header' class="dark rounded flex row cross-centered">
-        <button class="dark rounded" id="block-button">Block</button>
-        <button class="dark rounded" id="single-button">Single</button>
-        <button class="dark rounded" id="text-button">Text</button>
+    <div id='header' class="dark rounded flex row cross-centered between">
+		<div>
+			<button class="dark rounded" id="block-button">Block</button>
+			<button class="dark rounded" id="single-button">Single</button>
+			<button class="dark rounded" id="texts-button">Texts</button>
+		</div>
+		<div>
+			{% if 'token' in request.cookies.keys() %}
+				<button class="dark rounded" id="logout-button">Logout</button>
+			{% else %}
+				<button class="dark rounded" id="login-button">Login</button>
+				<button class="dark rounded" id="register-button">Register</button>
+			{% endif %}
+		</div>
     </div>
     <div id='content' class="flex row even cross-centered">
     {% block content %}{% endblock %}

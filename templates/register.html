@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <script defer src="/static/js/register.js"></script>
+{% endblock %}
+
+{% block subpage %}
+Register
+{% endblock %}
+
+{% block content %}
+    <div class="dark rounded flex column">
+		<h1 class="dark rounded">Register</h1>
+		<input class="glow dark rounded" type="text" name="username" placeholder="Username" id="username-input">
+		<input class="glow dark rounded" type="password" name="password" placeholder="Password" id="password-input">
+		<input class="glow dark rounded" type="password" name="confirm-password" placeholder="Confirm Password" id="confirm-password-input">
+		<button class="dark rounded" id="submit-button">Register</button>
+	</div>
+{% endblock %}

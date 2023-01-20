@@ -1,5 +1,9 @@
+const title_input = document.querySelector('#title-input');
 const text_box = document.querySelector('#text');
 const buttons_div = document.querySelector('#buttons');
+
+const split_href = window.location.href.split('/');
+const text_id = split_href[split_href.length-1];
 
 let save_timeout;
 
@@ -58,9 +62,18 @@ const populateSynonyms = async (word) => {
 }
 
 const getText = async () => {
-    const text_res = await fetch(`/api/text`);
-    const text = (await text_res.text()).slice(1, -1).replace(/\\n/g, "\n").replace(/\\"/g, "\"");
-    text_box.value = text;
+    const text_res = await fetch(`/api/text?id=${text_id}`, {
+		method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+	});
+	const text_json = await text_res.json();
+	if (text_json.text != null) {
+		// const text = (raw_text).slice(1, -1).replace(/\\n/g, "\n").replace(/\\"/g, "\"");
+		title_input.value = text_json.title;
+		text_box.value = text_json.text;
+	}
 }
 
 const saveText = async () => {
@@ -68,9 +81,13 @@ const saveText = async () => {
     await fetch(`/api/text`, {
         method: 'POST',
         headers: {
-            'Content-Type': 'text/plain'
+            'Content-Type': 'application/json'
         },
-        body: text
+		body: JSON.stringify({
+			id: parseInt(text_id),
+			title: title_input.value,
+			text: text_box.value
+		})
     });
 }
 
@@ -81,6 +98,7 @@ const handleTextChange = async () => {
     }, 1000);
 }
 
+title_input.addEventListener('input', handleTextChange)
 text_box.addEventListener('input', handleTextChange)
 
 document.addEventListener('click', () => {
